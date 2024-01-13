@@ -1,0 +1,198 @@
+<html>
+<head>
+	<title>Portal Calendar Filter</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+	<div id="app">
+		<h1>Portal Calendar Filter</h1>
+		<h2>Generate your filtered portal calendar subscription by category.</h2>
+		<div id="inputs">
+			<input type="text" id="url" placeholder="Portal Subscription URL" />
+			<button id="generate">Generate!</button>
+		</div>
+		<div id="output"></div>
+	</div>
+	
+	<script>
+		const urlRegex = `https://portalapi2.uwaterloo.ca/(.*?).ics`;
+		const output = document.getElementById('output');
+		const names = {
+			'lecture': 'Lectures',
+			'tutorial': 'Tutorials',
+			'lab': 'Labs',
+			'exam': 'Exams',
+			'important-date': 'Important Dates',
+			'quiz': 'Quizzes',
+			'tip': 'Tips',
+			'other': 'Other'
+		}
+		document.getElementById('generate').addEventListener('click', () => {
+			const url = document.getElementById('url').value;
+			if (!url.match(urlRegex)) {
+				output.innerHTML = 'Please enter a valid portal subscription URL 🥺';
+				output.classList.add('error');
+				return;
+			}
+			const baseUrl = new URL(window.location.href).origin + '/filter/';
+			const encoded = encodeURIComponent(url);
+			const result = [];
+			for (const key in names) {
+				result.push({
+					'url': baseUrl + key + '?url=' + encoded,
+					'name': names[key]
+				})
+			}
+			output.classList.remove('error');
+			output.innerHTML = '<div class="category header">Category</div><div class="url header">URL</div>';
+			result.forEach((item) => {
+				output.innerHTML += `
+					<div class="category">${item.name}</div>
+					<div class="url">
+						<input type="text" value="${item.url}" readonly class="url-input" />
+					</div>
+				`;
+			});
+		});
+		document.getElementById('url').addEventListener('keydown', (e) => {
+			if (e.key === 'Enter') {
+				document.getElementById('generate').click();
+			}
+		});
+		document.addEventListener('click', (e) => {
+			if (e.target.classList.contains('url-input')) {
+				e.target.select();
+			}
+		});
+	</script>
+	<style>
+		:root {
+			--uw-gold: #fdd54f;
+			--uw-gold-1: #f2eda8;
+			--uw-gold-2: #fae100;
+			--uw-gold-3: #fed34c;
+			--uw-gold-4: #eaab00;
+		}
+		html {
+			width: 100%;
+			height: 100%;
+			overflow: hidden;
+		}
+		body {
+			margin: 0;
+			box-sizing: border-box;
+			height: calc(100vh - 60px);
+			margin-top: 30px;
+			font-family: sans-serif;
+			text-align: center;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: center;
+			color: #212121;
+			overflow: hidden;
+		}
+		body::before, body::after {
+			content: '';
+			display: block;
+			position: fixed;
+			left: 0;
+			width: 100%;
+			height: 30px;
+			background: linear-gradient(90deg, var(--uw-gold-1) 0%, var(--uw-gold-1) 25%, var(--uw-gold-2) 25%, var(--uw-gold-2) 50%, var(--uw-gold-3) 50%, var(--uw-gold-3) 75%, var(--uw-gold-4) 75%, var(--uw-gold-4) 100%);
+		}
+		body::before {
+			top: 0;
+		}
+		body::after {
+			bottom: 0;
+		}
+		#app {
+			width: 100%;
+			max-height: 100%;
+			overflow-y: auto;
+			overflow-x: hidden;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			padding-top: 20px;
+			padding-bottom: 20px;
+		}
+		h1 {
+			font-size: 4rem;
+			margin: 0;
+			margin-bottom: 1rem;
+		}
+		h2 {
+			font-size: 1.5rem;
+			font-weight: normal;
+			margin-bottom: 2rem;
+		}
+		#inputs {
+			display: flex;
+			flex-direction: row;
+			align-items: center;
+			justify-content: center;
+			margin-bottom: 2rem;
+			width: min(calc(100% - 20px), 600px);
+		}
+		#url {
+			width: 100%;
+			max-width: 500px;
+			font-size: 1.2rem;
+			padding: 0.5rem 1rem;
+			border: 4px solid #ffd54f;
+			border-radius: 100px 0 0 100px;
+			outline: none;
+		}
+		#generate {
+			font-size: 1.2rem;
+			padding: 0.5rem 1rem;
+			border: 4px solid #ffd54f;
+			border-left: none;
+			border-radius: 0 100px 100px 0;
+			background: #ffd54f;
+			color: #212121;
+			cursor: pointer;
+			outline: none;
+			transition: background 0.2s ease;
+		}
+		#generate:hover {
+			background: #e4ad00;
+		}
+		#output.error {
+			color: #ff63aa;
+			font-size: 1.6rem;
+			margin-bottom: 1rem;
+		}
+		#output:not(.error) {
+			display: grid;
+			grid-template-columns: 120px calc(100% - 120px);
+			grid-column-gap: 20px;
+			grid-row-gap: 20px;
+			width: min(calc(100% - 20px), 650px);
+		}
+		#output .header {
+			font-size: 1.2rem !important;
+			font-weight: bold;
+			padding-bottom: 10px;
+		}
+		#output > * {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: center;
+		}
+		#output .category {
+			font-size: 1.2rem;
+		}
+		#output .url-input {
+			width: 100%;
+			font-size: 1rem;
+			padding: 0.5rem 1rem;
+			border: 2px solid #ffd54f;
+			border-radius: 100px;
+			outline: none;
+		}
+	</style>
+</html>

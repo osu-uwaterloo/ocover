@@ -1,0 +1,5384 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
+VERSION:2.0
+X-WR-CALNAME:Portal Calendar
+X-WR-TIMEZONE:Etc/UTC
+BEGIN:VTIMEZONE
+TZID:Etc/UTC
+X-LIC-LOCATION:Etc/UTC
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Last day to drop (https://uwaterloo.ca/quest/help/students/how
+ -do-i/drop-classes) a class and receive a WD (Withdrew\, no credit grante
+ d) grade.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230719
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230718
+SEQUENCE:0
+SUMMARY:Drop with WD ends
+UID:f174f1e1-82d3-44f4-a932-e5a19fe5602c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:WF (Withdrew/Failure\, no credit granted\, value 32) grade ass
+ igned for class(es) dropped during this period.Engineering students: Visi
+ t course load (http://ugradcalendar.uwaterloo.ca/page/ENG-Examinations-an
+ d-Promotions-Rules) and withdrawal (http://ugradcalendar.uwaterloo.ca/pag
+ e/ENG-Voluntary-Withdrawals-1) in the Undergraduate Calendar for specific
+  regulations.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230720
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230719
+SEQUENCE:0
+SUMMARY:Drop with WF begins
+UID:4aa84c72-2899-4153-bd52-019e4ddb926a
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Registered students can begin to view\, in Quest\, their next 
+ term's class schedule and appointment time. See How to view appointment t
+ ime for the beginning of drop/add? (https://uwaterloo.ca/quest/help/stude
+ nts/how-do-i/view-my-drop-add-appointment-time)
+DTEND;TZID=America/Toronto;VALUE=DATE:20230720
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230719
+SEQUENCE:0
+SUMMARY:View next term's schedule and appointments
+UID:e79d3d35-6f1f-4888-a265-ed8225140270
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:The Drop/Add Period begins with individualized Quest appointme
+ nt times\; the dates listed indicate the Quest appointment period. See Ho
+ w to view appointment time for the beginning of drop/add (https://uwaterl
+ oo.ca/quest/help/students/how-do-i/view-my-drop-add-appointment-time).
+DTEND;TZID=America/Toronto;VALUE=DATE:20230726
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230720
+SEQUENCE:0
+SUMMARY:Drop/Add Period Appointments - new students
+UID:0e5a56c7-ffaf-48a7-bbe4-db2bba28ab16
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:The Drop/Add Period begins with individualized Quest appointme
+ nt times\; the dates listed indicate the Quest appointment period. See Ho
+ w to view appointment time for the beginning of drop/add (https://uwaterl
+ oo.ca/quest/help/students/how-do-i/view-my-drop-add-appointment-time).
+DTEND;TZID=America/Toronto;VALUE=DATE:20230726
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230724
+SEQUENCE:0
+SUMMARY:Drop/Add Period Appointments - returning students
+UID:72a5b382-13c2-4634-84e8-5c2610a4f786
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:The first day of the Drop/Add Period where all undergraduate s
+ tudents have equal access to make changes to their term class schedule (h
+ ttps://uwaterloo.ca/quest/undergraduate-students#class-and-exams) (add\, 
+ drop\, swap) in Quest. The Add Period continues for all students until th
+ e last day to add a class.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230727
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230726
+SEQUENCE:0
+SUMMARY:Add Period begins (open enrolment)
+UID:9a8ae07a-bbd1-4f9f-8ee7-dddb1764d6ea
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:The loss of a Monday class on July 1 will be made up on Monday
+ \, July 31.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230801
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230731
+SEQUENCE:0
+SUMMARY:Make-up day for Canada Day
+UID:99e02cfd-8577-4a48-8e89-42625c18ac87
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Laurier (https://www.wlu.ca/) may have a different schedule - 
+ visit their website for applicable end dates.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230802
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230801
+SEQUENCE:0
+SUMMARY:Classes end
+UID:cd6a90ca-cd31-4125-acc1-1e110f29c7af
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:The loss of a Tuesday class on May 23 will be made up on Tuesd
+ ay\, August 1.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230802
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230801
+SEQUENCE:0
+SUMMARY:Make-up day for May 23
+UID:20ab86f0-7b6b-4a30-ad0b-e78d2c5416fa
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=America/Toronto;VALUE=DATE:20230804
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230802
+SEQUENCE:0
+SUMMARY:Pre-examination study days
+UID:63ec7797-070d-40ff-9210-199dbbbba768
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Last day to drop (https://uwaterloo.ca/quest/help/students/how
+ -do-i/drop-classes) a class without a petition and receive a WF (Withdrew
+ /Failure\, no credit granted\, value 32) grade.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230804
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230803
+SEQUENCE:0
+SUMMARY:Drop with WF ends
+UID:5bde4083-74bb-4e24-8038-c424243ab1b9
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:First day of the final examination period.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230805
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230804
+SEQUENCE:0
+SUMMARY:Final examinations begin
+UID:8fe5c0fe-aa7e-4c3f-9880-1cf2931eb15a
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:No final examinations are held on the Saturday following or pr
+ eceding a public holiday.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230806
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230805
+SEQUENCE:0
+SUMMARY:No final examinations scheduled
+UID:760fa36b-edf1-42da-a18c-ea07f1341a25
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:No final examinations are held and offices closed.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230808
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230807
+SEQUENCE:0
+SUMMARY:Civic Day
+UID:ed6d6733-183d-48f8-978b-3cdc43df3d6c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Spring 2023 term dates.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230813
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230811
+SEQUENCE:0
+SUMMARY:In-person exam days for online courses
+UID:3314be7b-45d5-4769-8646-3c5843e382cb
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Complete an Application to Graduate (https://uwaterloo.ca/form
+ s/undergraduate-studies/application-graduate-october-2022) for the Octobe
+ r convocation ceremony (undergraduate students).
+DTEND;TZID=America/Toronto;VALUE=DATE:20230816
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230815
+SEQUENCE:0
+SUMMARY:Application to Graduate due
+UID:7dd144dc-312b-4e8e-a9a1-daf41b4f7af6
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Spring 2023 term dates.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230817
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230816
+SEQUENCE:0
+SUMMARY:In-person exam days for online courses
+UID:9eb8d037-2cfc-44ed-b8ed-7a956af68be0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Spring 2023 term dates.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230819
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230818
+SEQUENCE:0
+SUMMARY:In-person exam days for online courses
+UID:1c2d9b2d-cbc1-444e-bb1f-d16e40b2ad95
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Last day of the final examination period.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230820
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230819
+SEQUENCE:0
+SUMMARY:Final examinations end
+UID:900d40d3-bd19-4c3a-bb47-ade94b308915
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Registered students can view their unofficial term grades (htt
+ ps://uwaterloo.ca/quest/help/students/how-do-i/term-grades) in Quest.Note
+ : Not all grades will be available on this date.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230821
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230820
+SEQUENCE:0
+SUMMARY:Grades begin to appear in Quest
+UID:784415a7-4ceb-4c46-9f74-80d85c2d4edc
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:See how to opt out of optional or voluntary fees (https://uwat
+ erloo.ca/quest/help/students/how-do-i/opt-out-optional-or-voluntary-fees)
+  in Quest.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230823
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230822
+SEQUENCE:0
+SUMMARY:Opt out of optional/voluntary fees deadline
+UID:1da0f7d4-628c-4b6d-af60-999ba6507f2d
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Pay in full or become "Fees Arranged" (https://uwaterloo.ca/fi
+ nance/student-financial-services/how-become-fees-arranged)\; a Fees Arran
+ ged Extension fee applies after this date.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230823
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230822
+SEQUENCE:0
+SUMMARY:Tuition and fees due
+UID:5fd5bb0b-ce0c-4540-a79b-a60fce235cae
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:See Student Financial Services (https://uwaterloo.ca/finance/s
+ tudent-financial-services/due-dates) website for Fees Arranged Extension 
+ fee amounts by date.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230824
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230823
+SEQUENCE:0
+SUMMARY:Fees Arranged Extension fees begin
+UID:23fc34e5-4e62-409c-b4f0-5a749d375613
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Actual dates may vary depending on employer or student require
+ ments.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230826
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230825
+SEQUENCE:0
+SUMMARY:Co-operative work term ends
+UID:4a0c290a-ae92-4684-ba0d-56f4f069cd82
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:No classes and offices closed.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230905
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230904
+SEQUENCE:0
+SUMMARY:Labour Day
+UID:d31ab5db-ca4d-47c7-85bb-d8f64ce0ac84
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Actual dates may vary depending on employer or student require
+ ments.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230906
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230905
+SEQUENCE:0
+SUMMARY:Co-operative work term begins
+UID:fcb71b1c-b0a5-4ffb-a777-2f05de271946
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Laurier (https://www.wlu.ca/) may have a different schedule - 
+ visit their website for applicable start dates.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230907
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230906
+SEQUENCE:0
+SUMMARY:Classes begin
+UID:211821ea-0646-46ab-901f-f83804dde43e
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Reserves on most classes will be removed on this date\, openin
+ g remaining spaces to all students. See Schedule of Classes (https://clas
+ ses.uwaterloo.ca/under.html) for spaces.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230914
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230913
+SEQUENCE:0
+SUMMARY:Reserves removed
+UID:7cca6e43-a6bd-4436-8b7b-a7e972333b34
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Registered students can view their official and complete term 
+ grades\, along with academic standing\, in Quest.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230915
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230914
+SEQUENCE:0
+SUMMARY:Standing decisions and official grades are available in Quest
+UID:3dc1e826-b6be-4257-ab9a-44a3d18a6cff
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Last day to add a class. See how to add or swap classes (https
+ ://uwaterloo.ca/quest/undergraduate-students#class-and-exams) in Quest.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230920
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230919
+SEQUENCE:0
+SUMMARY:Add Period ends
+UID:77d4c772-6883-49eb-bfca-a6c16be5098d
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Not Fees Arranged (NFA) holds applied to students who are not 
+ yet Fees Arranged for the term.Undergraduate students: Find out more abou
+ t how this hold will impact your course registration process (https://uwa
+ terloo.ca/registrar/registering-courses/dropadd-period#hold) for future t
+ erms.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230922
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230921
+SEQUENCE:0
+SUMMARY:Not Fees Arranged (NFA) holds applied
+UID:422d8112-7534-4531-b7a8-9501aed734f4
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:See How do I select courses for a future term? (https://uwater
+ loo.ca/quest/help/students/how-do-i/select-courses-future-term)
+DTEND;TZID=America/Toronto;VALUE=DATE:20231003
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230922
+SEQUENCE:0
+SUMMARY:Course Selection Period
+UID:a4ede991-86b4-4fb3-8989-8f8cbc5c93ee
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:The Drop Period ends. Classes dropped prior to or on this day 
+ will be removed from the academic record. See how to drop a class (https:
+ //uwaterloo.ca/quest/help/students/how-do-i/drop-classes) in Quest.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230927
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230926
+SEQUENCE:0
+SUMMARY:Last day to drop a class from the academic record
+UID:280fdd86-30f5-4e77-96e7-6997181be44a
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:See Student Financial Services website (https://uwaterloo.ca/f
+ inance/student-financial-services/due-dates-and-late-fees).
+DTEND;TZID=America/Toronto;VALUE=DATE:20230927
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230926
+SEQUENCE:0
+SUMMARY:Tuition and fee refund deadline - 100%
+UID:d145516a-3c3e-4fc6-8037-69db6463b6fa
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:WD (Withdrew\, no credit granted) grade assigned for class(es)
+  dropped (https://uwaterloo.ca/quest/help/students/how-do-i/drop-classes)
+  during this period.
+DTEND;TZID=America/Toronto;VALUE=DATE:20230928
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20230927
+SEQUENCE:0
+SUMMARY:Drop with WD begins
+UID:90013076-e4bb-46fe-909b-033768f41b68
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20231002T035959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20231002T035959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Reflection #1
+UID:95d63271-cded-440e-82b3-7fc7c3a47dd3
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Go to the final examination schedule (https://uwaterloo.ca/reg
+ istrar/final-examinations/exam-schedule).
+DTEND;TZID=America/Toronto;VALUE=DATE:20231003
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231002
+SEQUENCE:0
+SUMMARY:Final examination schedules released
+UID:00326c36-10de-4320-9129-608067978a8a
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:All classes cancelled\; offices closed on the weekends and the
+  holiday Monday.Undergraduate students: view the Undergraduate Studies Ac
+ ademic Calendar (http://ugradcalendar.uwaterloo.ca/page/Acad-Regs-Schedul
+ ed-Pauses) for more details.Graduate students: view the Graduate Studies 
+ Academic Calendar (https://uwaterloo.ca/graduate-studies-academic-calenda
+ r/general-information-and-regulations/reading-week) for more details.
+DTEND;TZID=America/Toronto;VALUE=DATE:20231016
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231007
+SEQUENCE:0
+SUMMARY:Reading Week
+UID:dfcd1e42-8fb6-4e0f-89d8-e0b54a1dea29
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:All classes cancelled and offices closed.
+DTEND;TZID=America/Toronto;VALUE=DATE:20231010
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231009
+SEQUENCE:0
+SUMMARY:Thanksgiving Day
+UID:34407e0a-cecf-4ecd-b08d-c4a801b9c207
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Requests for relief for consecutive final exams (https://uwate
+ rloo.ca/forms/undergraduate-studies/request-relief-consecutive-final-exam
+ s) are generally due two weeks after the final examination schedule is pu
+ blished.
+DTEND;TZID=America/Toronto;VALUE=DATE:20231017
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231016
+SEQUENCE:0
+SUMMARY:Final examination relief requests due
+UID:b49a7f12-62bc-4ab3-a7a2-c40e22501af3
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Requests for accommodations on religious grounds (http://ugrad
+ calendar.uwaterloo.ca/page/Acad-Regs-Accommodations) for final examinatio
+ ns should normally be made within two weeks of the final examination sche
+ dule being published. Students must contact their instructor by the deadl
+ ine.
+DTEND;TZID=America/Toronto;VALUE=DATE:20231017
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231016
+SEQUENCE:0
+SUMMARY:Requests for accommodations on religious grounds due
+UID:748887a8-bf1e-4f96-b068-3f1193746a59
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20231016T180000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20231016T170000
+LOCATION:Needles Hall\, Counselling Services\, Room 2447
+SEQUENCE:0
+SUMMARY:Vocal Coaching - Feminizing sessions
+UID:ce4249f3-32f2-409c-92c1-9fe860620d5b
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Visit the Convocation website (https://uwaterloo.ca/convocatio
+ n/ceremonies/ceremony-dates-and-times) for details.
+DTEND;TZID=America/Toronto;VALUE=DATE:20231022
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231020
+SEQUENCE:0
+SUMMARY:Convocation - fall 2023
+UID:8d0d1980-630b-41e6-a1d5-b4c429911a69
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:See Student Financial Services website (https://uwaterloo.ca/f
+ inance/student-financial-services/due-dates-and-late-fees).
+DTEND;TZID=America/Toronto;VALUE=DATE:20231021
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231020
+SEQUENCE:0
+SUMMARY:Tuition and fee refund deadline - 50%
+UID:1140ec1c-57f8-4d4c-9036-968e21769e5b
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20231023T180000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20231023T170000
+LOCATION:Needles Hall\, Counselling Services\, Room 2447
+SEQUENCE:0
+SUMMARY:Vocal Coaching - Feminizing sessions
+UID:65843f8b-47cd-426f-939c-f159ff65fee2
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:View details about writing exams for online courses (https://u
+ waterloo.ca/extended-learning/learn-online/write-exams). Deadline is 4 p.
+ m. ET on date listed.
+DTEND;TZID=America/Toronto;VALUE=DATE:20231028
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231027
+SEQUENCE:0
+SUMMARY:Last day to select an examination centre or submit a proctor for o
+ nline course exams
+UID:b1a44c23-3459-4533-b6af-c41bba351f92
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20231030T035959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20231030T035959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Reflection #2
+UID:dbef9be6-96fd-40bc-b960-66edb272a578
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20231030T180000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20231030T170000
+LOCATION:Needles Hall\, Counselling Services\, Room 2447
+SEQUENCE:0
+SUMMARY:Vocal Coaching - Feminizing sessions
+UID:47455d4a-d942-4b70-ab5d-f5eb91b4c011
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20231113T045900
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20231113T045900
+LOCATION:
+SEQUENCE:0
+SUMMARY:Research and the Library: Learning Module
+UID:8de97859-3e47-45fc-bdf9-4bade774a9d4
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Registered students can begin to view\, in Quest\, their next 
+ term's class schedule and appointment time. See How to view appointment t
+ ime for the beginning of drop/add? (https://uwaterloo.ca/quest/help/stude
+ nts/how-do-i/view-my-drop-add-appointment-time)
+DTEND;TZID=America/Toronto;VALUE=DATE:20231117
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231116
+SEQUENCE:0
+SUMMARY:View next term's schedule and appointments
+UID:caf8ec18-7e28-4ba5-9b33-0ae77c1e9311
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:The Drop/Add Period begins with individualized Quest appointme
+ nt times. See How to view appointment time for the beginning of drop/add 
+ (https://uwaterloo.ca/quest/help/students/how-do-i/view-my-drop-add-appoi
+ ntment-time).Dates listed indicate Quest appointment period. The Add Peri
+ od continues for all students until the last day to add a class.
+DTEND;TZID=America/Toronto;VALUE=DATE:20231122
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231120
+SEQUENCE:0
+SUMMARY:Drop/Add Period begins
+UID:82e213e7-0152-4191-833b-dc73662eaf54
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Last day to drop (https://uwaterloo.ca/quest/help/students/how
+ -do-i/drop-classes) a class and receive a WD (Withdrew\, no credit grante
+ d) grade.
+DTEND;TZID=America/Toronto;VALUE=DATE:20231122
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231121
+SEQUENCE:0
+SUMMARY:Drop with WD ends
+UID:f1b806ab-1024-4d08-a6a2-1eca01ae2e68
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:This file should include an explanation of your Topic and your
+  Thesis Statement.
+DTEND;TZID=Etc/UTC:20231122T045959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20231122T045959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Research Proposal
+UID:3ae768c4-f615-495d-a524-c4bac0536d5f
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:The first day of the Drop/Add Period where all undergraduate s
+ tudents have equal access to make changes to their term class schedule (h
+ ttps://uwaterloo.ca/quest/undergraduate-students#class-and-exams) (add\, 
+ drop\, swap) in Quest. The Add Period continues for all students until th
+ e last day to add a class.
+DTEND;TZID=America/Toronto;VALUE=DATE:20231123
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231122
+SEQUENCE:0
+SUMMARY:Add Period begins (open enrolment)
+UID:76bec354-1e77-4fbc-8df5-c3aaa9301c6f
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:WF (Withdrew/Failure\, no credit granted\, value 32) grade ass
+ igned for class(es) dropped during this period.Engineering students: Visi
+ t course load (http://ugradcalendar.uwaterloo.ca/page/ENG-Examinations-an
+ d-Promotions-Rules) and withdrawal (http://ugradcalendar.uwaterloo.ca/pag
+ e/ENG-Voluntary-Withdrawals-1) in the Undergraduate Calendar for specific
+  regulations.
+DTEND;TZID=America/Toronto;VALUE=DATE:20231123
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231122
+SEQUENCE:0
+SUMMARY:Drop with WF begins
+UID:5f0d3fab-e442-4b54-bc47-35b1da7acf67
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Laurier (https://www.wlu.ca/) may have a different schedule - 
+ visit their website for applicable end dates.
+DTEND;TZID=America/Toronto;VALUE=DATE:20231206
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231205
+SEQUENCE:0
+SUMMARY:Classes end
+UID:e93dcbd6-701f-4229-9334-c958d93749e5
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=America/Toronto;VALUE=DATE:20231208
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231206
+SEQUENCE:0
+SUMMARY:Pre-examination study days
+UID:8a540460-488a-40be-9ac2-2ef3461100cd
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Last day to drop (https://uwaterloo.ca/quest/help/students/how
+ -do-i/drop-classes) a class without a petition and receive a WF (Withdrew
+ /Failure\, no credit granted\, value 32) grade.
+DTEND;TZID=America/Toronto;VALUE=DATE:20231208
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231207
+SEQUENCE:0
+SUMMARY:Drop with WF ends
+UID:434a3dc4-9205-4382-80be-224f588ecd0e
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:First day of the Final Examination Period.
+DTEND;TZID=America/Toronto;VALUE=DATE:20231209
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231208
+SEQUENCE:0
+SUMMARY:Final examinations begin
+UID:5c6a61d9-0f83-4b04-92fd-adc2df788341
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Fall 2023 term dates.
+DTEND;TZID=America/Toronto;VALUE=DATE:20231210
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231208
+SEQUENCE:0
+SUMMARY:In-person exam days for online courses
+UID:88f46c3e-bbf2-4584-9ec6-4129f4c0c314
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Final examinations can be held on this day for the fall 2023 t
+ erm.
+DTEND;TZID=America/Toronto;VALUE=DATE:20231211
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231210
+SEQUENCE:0
+SUMMARY:Examinations on Sunday
+UID:eb5d1d58-94fb-4cc5-9d54-10eb752778f7
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Go to the PAC (Physical Activities Complex)Enter at the WEST e
+ ntranceGo up all the way to level 3When allowed by proctors\, enter and f
+ ind seat UP T-3
+DTEND;TZID=Etc/UTC:20231210T200000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20231210T173000
+LOCATION: -
+SEQUENCE:0
+SUMMARY:CS 135 Final
+UID:f0077493-d422-42a0-b498-a3cd1f4c4379
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Go to the PAC (Physical Activities Complex)Enter at the WEST e
+ ntranceGo down all the way to level 1When allowed by proctors\, enter and
+  find seat GYM Q-34
+DTEND;TZID=Etc/UTC:20231211T163000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20231211T140000
+LOCATION: -
+SEQUENCE:0
+SUMMARY:MATH 135 Final
+UID:cf642291-be3c-4038-918f-21a87484896c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20231213T045959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20231213T045959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Revision Plan
+UID:c69201ab-8e3e-4969-97c8-adf0b1c01c8b
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Fall 2023 term dates.
+DTEND;TZID=America/Toronto;VALUE=DATE:20231214
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231213
+SEQUENCE:0
+SUMMARY:In-person exam days for online courses
+UID:e17a5ea9-c463-4672-8962-636c51722b53
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Go to the PAC (Physical Activities Complex)Enter at the SOUTH 
+ entranceGo down all the way to level 1When allowed by proctors\, enter an
+ d find seat GYM B-12
+DTEND;TZID=Etc/UTC:20231213T200000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20231213T173000
+LOCATION: -
+SEQUENCE:0
+SUMMARY:MATH 137 Final
+UID:32faea15-81bb-446c-a3de-acad0a3f183e
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:See how to opt out of optional or voluntary fees (https://uwat
+ erloo.ca/quest/help/students/how-do-i/opt-out-optional-or-voluntary-fees)
+  in Quest.
+DTEND;TZID=America/Toronto;VALUE=DATE:20231215
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231214
+SEQUENCE:0
+SUMMARY:Opt out of optional/voluntary fees deadline
+UID:e189b55e-c0a1-45dd-bb15-46b8cd54a95f
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Pay in full or become "Fees Arranged" (https://uwaterloo.ca/fi
+ nance/student-financial-services/how-become-fees-arranged)\; a Fees Arran
+ ged Extension fee applies after this date.
+DTEND;TZID=America/Toronto;VALUE=DATE:20231215
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231214
+SEQUENCE:0
+SUMMARY:Tuition and fees due
+UID:c1c3e084-17ad-42a6-8bc6-4069f07f1f09
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:See Student Financial Services (https://uwaterloo.ca/finance/s
+ tudent-financial-services/due-dates) website for Fees Arranged Extension 
+ fee amounts by date.
+DTEND;TZID=America/Toronto;VALUE=DATE:20231216
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231215
+SEQUENCE:0
+SUMMARY:Fees Arranged Extension fees begin
+UID:c014e2fe-99d9-42e6-88dc-f8249ddcd291
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Fall 2023 term dates.
+DTEND;TZID=America/Toronto;VALUE=DATE:20231217
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231216
+SEQUENCE:0
+SUMMARY:In-person exam days for online courses
+UID:8f5e8468-7728-4f8d-97bb-c910dac5fe4e
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Dates reserved to hold final examinations in the event the Uni
+ versity is closed during the fall 2023 Final Examination Period: Examinat
+ ions will be rescheduled on the next available day\, including Sunday\, o
+ n which examinations have not been scheduled.
+DTEND;TZID=America/Toronto;VALUE=DATE:20231218
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231217
+SEQUENCE:0
+SUMMARY:Final examination emergency days
+UID:633f0576-da7e-4903-8cd7-e78ce8793286
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20231220T045959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20231220T045959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Final Paper
+UID:24b488a3-8a76-43d5-949f-befd0ef3b441
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20231220T163000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20231220T140000
+LOCATION:PAC GYM -
+SEQUENCE:0
+SUMMARY:PHYS 111 Final
+UID:1f647a32-908e-4a6e-b240-6c4d7d46b825
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Last day of the Final Examination Period.
+DTEND;TZID=America/Toronto;VALUE=DATE:20231222
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231221
+SEQUENCE:0
+SUMMARY:Final examinations end
+UID:9e50b625-b678-47c6-bf53-8225cebb40f7
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Actual dates may vary depending on employer or student require
+ ments.
+DTEND;TZID=America/Toronto;VALUE=DATE:20231223
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231222
+SEQUENCE:0
+SUMMARY:Co-operative work term ends
+UID:abf82061-c683-4369-a559-1dff546041bb
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Dates reserved to hold final examinations in the event the Uni
+ versity is closed during the fall 2023 Final Examination Period: Examinat
+ ions will be rescheduled on the next available day\, including Sunday\, o
+ n which examinations have not been scheduled.
+DTEND;TZID=America/Toronto;VALUE=DATE:20231223
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231222
+SEQUENCE:0
+SUMMARY:Final examination emergency days
+UID:6413d476-874f-4c86-80ea-0a70eb0b7d39
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Registered students can view their unofficial term grades (htt
+ ps://uwaterloo.ca/quest/help/students/how-do-i/term-grades) in Quest.Note
+ : Not all grades will be available on this date.
+DTEND;TZID=America/Toronto;VALUE=DATE:20231224
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231223
+SEQUENCE:0
+SUMMARY:Grades begin to appear in Quest
+UID:d46eb39b-595b-4f04-a498-56611bbe6a2c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:No classes and offices closed.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240101
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20231223
+SEQUENCE:0
+SUMMARY:University holiday closure
+UID:b3d6b8da-44c2-4389-93c9-cec7ebc3cd88
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:No classes and offices closed.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240102
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240101
+SEQUENCE:0
+SUMMARY:University holiday closure
+UID:19912888-1637-45f0-8141-a781498b3ce4
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Laurier (https://www.wlu.ca/) may have a different schedule - 
+ visit their website for applicable start dates.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240109
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240108
+SEQUENCE:0
+SUMMARY:Classes begin
+UID:52924f89-c2d8-47e4-bbc9-06dbd6799b87
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Actual dates may vary depending on employer or student require
+ ments.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240109
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240108
+SEQUENCE:0
+SUMMARY:Co-operative work term begins
+UID:dabab1b1-3891-421b-b9b9-fe7c8a62b6c1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240108T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240108T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:0be287b5-e80c-4e30-878a-1d0d48a59f6d
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240108T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240108T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:a91834c6-2aaf-4e21-9cd5-6efd1129918d
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240108T222000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240108T213000
+LOCATION:AL 116
+SEQUENCE:0
+SUMMARY:MATH 136 (TUT)
+UID:a98482fa-71e0-4459-9820-98b219d2caba
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Quiz based on Planet and Population and Rocks and Minerals lec
+ tures.
+DTEND;TZID=Etc/UTC:20240109T130000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240109T130000
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 1 - Planet/Population and Rocks/Minerals
+UID:a1f3e2d5-2377-4b4b-b336-f7c5fd0cd7b1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240109T175000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240109T163000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:67c6fe11-fd7c-424b-861d-820913c6064c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Tools and Techniques for Software Development Dalibor Dvorski
+DTEND;TZID=Etc/UTC:20240109T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240109T193000
+LOCATION:MC 4063
+SEQUENCE:0
+SUMMARY:CS 136L (LAB)
+UID:e31ec20e-06a6-4005-9d8c-d996fda40202
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240110T005000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240109T233000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:dfde01c3-9548-418a-9b48-1b104d801964
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el)
+DTEND;TZID=Etc/UTC:20240110T162000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240110T153000
+LOCATION:MC 2017
+SEQUENCE:0
+SUMMARY:CS 146 (TUT)
+UID:a5d2d8fe-7b64-4b55-9e77-2d854bf566bc
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240110T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240110T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:51b49250-acb5-4f63-bdea-dc2fcf1c0eb2
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240110T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240110T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:7427a2e0-5a6c-430e-aa7f-42b2d8655371
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240110T232000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240110T223000
+LOCATION:DC 1350
+SEQUENCE:0
+SUMMARY:MATH 138 (TUT)
+UID:f5f31e80-02c0-4be1-af5b-464c284a798d
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240111T175000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240111T163000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:49727d23-a68e-45e6-b454-9f6dc4b21951
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240112T005000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240111T233000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:6c24b036-a788-4f04-86ac-591f2148c833
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240112T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240112T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:f6c6d15e-cc3f-447b-9398-b28da3c2dd5c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240112T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240112T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:6a04c974-6847-4a18-b09d-63068cf71b86
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Reserves on most classes will be removed on this date\, openin
+ g remaining spaces to all students. See Schedule of Classes (https://clas
+ ses.uwaterloo.ca/under.html) for spaces.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240116
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240115
+SEQUENCE:0
+SUMMARY:Reserves removed
+UID:4f3a6b95-6f86-4deb-a699-48cfae2aff60
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240115T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240115T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:91b9a7d7-3cf1-4ec5-aaaa-f4eba9df1d3c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240115T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240115T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:a9c3e00c-f51a-4ed1-abac-a4f68c707e9f
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240115T222000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240115T213000
+LOCATION:AL 116
+SEQUENCE:0
+SUMMARY:MATH 136 (TUT)
+UID:d1a42f10-c2f9-41c0-91b3-c6267df143cc
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Quiz based on Planet and Population and Rocks and Minerals lec
+ tures.
+DTEND;TZID=Etc/UTC:20240116T045959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240116T045959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 1 - Planet/Population and Rocks/Minerals
+UID:67316c70-d6cf-4476-81a6-dc5e905088e5
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240116T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240116T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 2 Tuesday
+UID:af524e44-2c9a-49bf-989a-bb20a8511c04
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Quiz is based on the Plate Tectonics and Earthquakes lectures.
+DTEND;TZID=Etc/UTC:20240116T130000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240116T130000
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 2 - Plate Tectonics and Earthquakes
+UID:e29d621d-9741-4fb2-b9fd-fb24bb9dd0b6
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240116T175000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240116T163000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:f63c33e7-5e7e-440a-b4bc-767c69050748
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Tools and Techniques for Software Development Dalibor Dvorski
+DTEND;TZID=Etc/UTC:20240116T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240116T193000
+LOCATION:MC 4063
+SEQUENCE:0
+SUMMARY:CS 136L (LAB)
+UID:c4eb053e-cd9c-46f1-b78c-aba35887f397
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240117T005000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240116T233000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:339a380d-1f3b-4ed2-8a30-b4be3ddc3bf4
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el)
+DTEND;TZID=Etc/UTC:20240117T162000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240117T153000
+LOCATION:MC 2017
+SEQUENCE:0
+SUMMARY:CS 146 (TUT)
+UID:833578b5-7511-49eb-ab79-b7f158cec924
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240117T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240117T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:af331028-ff06-456c-b77a-042ede17f047
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240117T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240117T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:5162c011-a209-4ac7-ac0c-aa4832fb358e
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240117T232000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240117T223000
+LOCATION:DC 1350
+SEQUENCE:0
+SUMMARY:MATH 138 (TUT)
+UID:a5e161fd-be45-4b13-a952-88826a0d41b0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240117T230500
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240117T223000
+LOCATION:DC 1350 - M-4
+SEQUENCE:0
+SUMMARY:MATH 138 Quiz 1
+UID:b1855298-2f79-423e-9145-7c11b4db22fe
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Activity 1: Population Growth by CountryThe global population 
+ is currently just over 7 billion and is expected to rise to nearly 10 bil
+ lion people by 2050. The growth\, however is uneven\, with some countries
+  also declining in population. Rapidly rising populations in some countri
+ es will suffer in terms of the availability of necessary resources. Decli
+ ning populations have their own set of potential future issues with which
+  to deal. For this activity\, you will investigate population growth and 
+ the resulting impacts on a selected country. To complete this activity\, 
+ follow the steps below.  Select any country that appeals to you - be it y
+ our home country\, that of your relatives\, or simply one that interests 
+ you.Write a maximum 500 word (not including citations) summary about the 
+ population growth of your selected country and the impact of that growth 
+ on the environment and economy\, keeping in mind what was discussed in cl
+ ass. You should use scientific literature to support your discussion. You
+  can use the following questions to help guide you\, but feel free to dis
+ cuss any other topics related to population growth and its environmental 
+ impacts:Find the population growth rate of your home country or any count
+ ry of interest to you. Calculate the doubling time based on that growth r
+ ate. In what year\, will the population double (if it is indeed growing)?
+  You can begin your data search here: https://www.prb.org/international/ 
+ (https://www.prb.org/international/) but feel free to use other legitimat
+ e sources. Do not forget to cite your sources.Find the demographics break
+ down by age group of the country\, especially the number of children vers
+ us elderly. You can begin your data search here: https://ourworldindata.o
+ rg/age-structure (https://ourworldindata.org/age-structure) but feel free
+  to use other legitimate sources. Do not forget to cite your sources. Doe
+ s this align with what the growth rate and doubling time tell you? How? A
+ re there any economical concerns with this breakdown of age groups?What a
+ re the biggest resource concerns for that country? What resources would b
+ e sufficient to cover its population growth? Are there any resource conce
+ rns if the population is declining? Are there are already environmental c
+ oncerns in that country due to population size? What are the potential en
+ vironmental consequences of such population growth or decline?Cite your r
+ eferences according to APA style format. You can use this guide to help: 
+ https://www.mendeley.com/guides/apa-citation-guide/ (https://www.mendeley
+ .com/guides/apa-citation-guide/)Submit your 500 word summary in the Dropb
+ ox folder here (/d2l/common/dialogs/quickLink/quickLink.d2l?ou=988785&amp
+ \;type=dropbox&amp\;rcode=uWaterloo-4230228).You will be graded by the TA
+  according to thisRubric (/d2l/common/dialogs/quickLink/quickLink.d2l?ou=
+ 988785&amp\;type=rubric&amp\;rCode=uWaterloo-3800617).
+DTEND;TZID=Etc/UTC:20240118T045900
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240118T045900
+LOCATION:
+SEQUENCE:0
+SUMMARY:Activity 1
+UID:3559e8e0-7f1f-45f3-8e8d-43e40b3ea30c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Submit the Population Growth writing activity here. Your grade
+  will be based on the rubric you have seen. Equal points per category for
+  a total of 25 points possible. \nTurnitin will be used for this Dropbox 
+ submission. If you would like to opt out of it\, contact Prof. DelSontro 
+ or the TA directly.
+DTEND;TZID=Etc/UTC:20240118T045959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240118T045959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Activity 1 - Population Growth
+UID:d63cc8c5-e253-4e85-aa69-76efa9494586
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Registered students can view their official and complete term 
+ grades\, along with academic standing\, in Quest.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240119
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240118
+SEQUENCE:0
+SUMMARY:Standing decisions and official grades are available in Quest
+UID:33992591-8887-4a4e-94a0-9b087b308785
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240118T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240118T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 2 Thursday
+UID:188ee1a5-7d2e-41ec-a4fb-1f7b8ed0e88e
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240118T175000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240118T163000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:88b7d310-2c58-4520-90e0-b60a5756146d
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240119T005000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240118T233000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:010d31df-38d7-4987-9683-902223dd47f3
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Last day to add a class. See how to add or swap classes (https
+ ://uwaterloo.ca/quest/undergraduate-students#class-and-exams) in Quest.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240120
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240119
+SEQUENCE:0
+SUMMARY:Add Period ends
+UID:8297079b-0d65-4505-9af0-2a19b433b794
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240119T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240119T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 1
+UID:37dc9209-bb5c-46c8-95b8-d33903a0a55b
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240119T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240119T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:539860bf-0277-4a43-9e7d-da031e3bd52e
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240119T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240119T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:e290ac10-ea4e-4bfc-9f9a-87ea884d70d6
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240120T045959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240120T045959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 1
+UID:2cb1fb36-147b-4a5b-9059-1318e017f238
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Not Fees Arranged (NFA) holds applied to students who are not 
+ yet Fees Arranged for the term.Undergraduate students: Find out more abou
+ t how this hold will impact your course registration process (https://uwa
+ terloo.ca/registrar/registering-courses/dropadd-period#hold) for future t
+ erms.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240121
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240120
+SEQUENCE:0
+SUMMARY:Not Fees Arranged (NFA) holds applied
+UID:4af94855-bbc1-4ec5-b78e-4bcce68569ec
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240122T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240122T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:95623c58-b613-48b0-915d-5cf81e00de2c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240122T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240122T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:3fe617b4-ec51-474e-b8e8-2a9e9bf512ea
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240122T222000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240122T213000
+LOCATION:AL 116
+SEQUENCE:0
+SUMMARY:MATH 136 (TUT)
+UID:de1e98fd-d138-4752-9d75-90fee5a0c298
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240122T221500
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240122T213500
+LOCATION: -
+SEQUENCE:0
+SUMMARY:MATH 136 Quiz
+UID:741bf4e2-2b64-49a6-8d2d-1c83ef641166
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Quiz is based on the Plate Tectonics and Earthquakes lectures.
+DTEND;TZID=Etc/UTC:20240123T045959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240123T045959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 2 - Plate Tectonics and Earthquakes
+UID:8ae95b31-ce27-44d2-b2a5-5de358ca717e
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Radio broadcasting did something very unprecedented with mass 
+ media – it took hold of people's attention inside their private homes and
+  vehicles\, but they could not "skip" ads or information they didn't care
+  to hear. What are some things that family units would have been newly ex
+ posed to as a result? Why were people so willing to let external voices f
+ lood into their homes and vehicles\, and what were they giving up?
+DTEND;TZID=Etc/UTC:20240123T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240123T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 3 Tuesday
+UID:2b2dd43b-46db-4eb2-bc63-82e328c9103a
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240123T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240123T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 3 Tuesday
+UID:49b00b56-7237-4dad-87d5-6d2dff611ba1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Quiz is based on Volcanoes lecture
+DTEND;TZID=Etc/UTC:20240123T130000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240123T130000
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 3 - Volcanoes
+UID:c16155c5-783c-46a2-90c5-8f8190b34ed8
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240123T175000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240123T163000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:f31701d9-0b2f-4b36-90ba-5bfd46f6db81
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Tools and Techniques for Software Development Dalibor Dvorski
+DTEND;TZID=Etc/UTC:20240123T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240123T193000
+LOCATION:MC 4063
+SEQUENCE:0
+SUMMARY:CS 136L (LAB)
+UID:b0207a53-8f0b-4dad-a018-0b8021be894a
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240124T005000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240123T233000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:761b83a8-1a93-4ba3-a429-1473f46d1896
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el)
+DTEND;TZID=Etc/UTC:20240124T162000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240124T153000
+LOCATION:MC 2017
+SEQUENCE:0
+SUMMARY:CS 146 (TUT)
+UID:c93275ff-4123-4b2e-a789-fabfec9f29b6
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240124T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240124T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:0d08474d-edca-4d26-9a34-0451f3094283
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240124T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240124T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:696ff929-2905-4ee2-b81a-cba682ce8d94
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240124T232000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240124T223000
+LOCATION:DC 1350
+SEQUENCE:0
+SUMMARY:MATH 138 (TUT)
+UID:2ba83ca7-d780-4b30-bc10-af663b2f2c79
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240124T230500
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240124T223000
+LOCATION: -
+SEQUENCE:0
+SUMMARY:MATH 138 Quiz 2
+UID:467a2f49-9e4d-4451-b153-83a8f6727d32
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Radio broadcasting did something very unprecedented with mass 
+ media – it took hold of people's attention inside their private homes and
+  vehicles\, but they could not "skip" ads or information they didn't care
+  to hear. What are some things that family units would have been newly ex
+ posed to as a result? Why were people so willing to let external voices f
+ lood into their homes and vehicles\, and what were they giving up?
+DTEND;TZID=Etc/UTC:20240125T045900
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240125T045900
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 3 Tuesday
+UID:86cc6928-fa91-44a8-b054-ae35b33d6367
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:From Chapter 3 of New Media\, technological determinism sees s
+ ocial change as driven by technological change. As in\, society changes b
+ ecause new technologies disrupt society and alter human behaviour. The te
+ xtbook asks whether a cluster of technologies can shape historical develo
+ pments long-term\, and whether technological devices that are widely adop
+ ted and used acquire a sense of "lock-in." How much do you think new tech
+ nologies determine social and cultural development? Give at least one exa
+ mple.
+DTEND;TZID=Etc/UTC:20240125T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240125T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 3 Thursday
+UID:b3dd4637-1100-404c-8483-b25eefac3348
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240125T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240125T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 3 Thursday
+UID:993e0ae7-9fff-48c6-b0b8-e2d82c9bda56
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240125T175000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240125T163000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:cbcac1d0-4d44-4d44-81f3-d80fc0347da0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240126T005000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240125T233000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:adf4ad2d-240b-4e88-b47e-1cd20f0fe71e
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:The Drop Period ends. Classes dropped prior to or on this day 
+ will be removed from the academic record. See how to drop a class (https:
+ //uwaterloo.ca/quest/help/students/how-do-i/drop-classes) in Quest.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240127
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240126
+SEQUENCE:0
+SUMMARY:Last day to drop a class from the academic record
+UID:c3592077-6de9-48ac-92d6-965e386e9cd0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:See Student Financial Services website (https://uwaterloo.ca/f
+ inance/student-financial-services/due-dates-and-late-fees).
+DTEND;TZID=America/Toronto;VALUE=DATE:20240127
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240126
+SEQUENCE:0
+SUMMARY:Tuition and fee refund deadline - 100%
+UID:fd7ac82a-38fc-4211-b1a1-1509b6b6d413
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:These questions are based off of the readings assigned in Week
+  3 Tuesday.
+DTEND;TZID=Etc/UTC:20240126T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240126T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 2
+UID:7b35ae50-0c31-4eb8-a8b1-743f2af0deda
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240126T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240126T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:a418f779-210b-4f8f-b378-250229d9e320
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240126T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240126T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:d4c1559b-ba85-42ef-b856-98106f294aa8
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:From Chapter 3 of New Media\, technological determinism sees s
+ ocial change as driven by technological change. As in\, society changes b
+ ecause new technologies disrupt society and alter human behaviour. The te
+ xtbook asks whether a cluster of technologies can shape historical develo
+ pments long-term\, and whether technological devices that are widely adop
+ ted and used acquire a sense of "lock-in." How much do you think new tech
+ nologies determine social and cultural development? Give at least one exa
+ mple.
+DTEND;TZID=Etc/UTC:20240127T045900
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240127T045900
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 3 Thursday
+UID:fb60380a-1a90-46d4-8bce-8c6b02ca6168
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:These questions are based off of the readings assigned in Week
+  3 Tuesday.
+DTEND;TZID=Etc/UTC:20240127T045959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240127T045959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 2
+UID:e080b163-124e-4e45-91b9-7282c35ed2cb
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:WD (Withdrew\, no credit granted) grade assigned for class(es)
+  dropped (https://uwaterloo.ca/quest/help/students/how-do-i/drop-classes)
+  during this period.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240128
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240127
+SEQUENCE:0
+SUMMARY:Drop with WD begins
+UID:b57cb469-7369-4784-81f9-4e405e6c9d43
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240129T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240129T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:21a6ca52-b1e2-484b-b821-600756aa007b
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240129T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240129T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:849dba60-a8b5-42bf-b3db-8f09bc48741b
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240129T222000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240129T213000
+LOCATION:AL 116
+SEQUENCE:0
+SUMMARY:MATH 136 (TUT)
+UID:939c05b0-27ed-45ad-b7eb-1e88dca76cb5
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Quiz is based on Volcanoes lecture
+DTEND;TZID=Etc/UTC:20240130T045959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240130T045959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 3 - Volcanoes
+UID:ad45619a-7f65-4bc8-bb2c-70c6d4e476c2
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Considering McLuhan's argument that the medium is the message\
+ , rather than the content of said medium\, give an example of a technolog
+ y that has changed the way people interact and behave. How does analyzing
+  the effects of this technology\, rather than the content it delivers\, p
+ rovide a wider understanding of how technologies affect society and cultu
+ re? What can we learn from this kind of analysis?
+DTEND;TZID=Etc/UTC:20240130T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240130T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 4 Tuesday
+UID:1f5b3e52-88c4-4f20-9840-e3d99edfaba0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240130T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240130T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 4 Tuesday
+UID:4b15bdd6-050f-4409-bf1c-5bc9d84cc063
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Quiz is based on Coastal Zones and Mass Movements lectures.
+DTEND;TZID=Etc/UTC:20240130T130000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240130T130000
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 4 - Coastal Zones and Mass Movements
+UID:00aa171f-f3be-47f8-9cd8-f606af8b4b6d
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240130T175000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240130T163000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:20611ba1-de1f-4357-8c01-412bc09625dc
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Tools and Techniques for Software Development Dalibor Dvorski
+DTEND;TZID=Etc/UTC:20240130T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240130T193000
+LOCATION:MC 4063
+SEQUENCE:0
+SUMMARY:CS 136L (LAB)
+UID:243a1403-993e-4769-a2c7-3377b7324771
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240131T005000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240130T233000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:7f795e8f-7bff-43e3-b4ed-a1e4b4e6df95
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el)
+DTEND;TZID=Etc/UTC:20240131T162000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240131T153000
+LOCATION:MC 2017
+SEQUENCE:0
+SUMMARY:CS 146 (TUT)
+UID:473d0270-fc5d-4baf-866e-3b97b11b204c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240131T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240131T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:f53d26db-b627-4825-bf64-121131b4f9d4
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240131T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240131T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:186c9403-3669-4eb3-baee-14f7973818b6
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240131T232000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240131T223000
+LOCATION:DC 1350
+SEQUENCE:0
+SUMMARY:MATH 138 (TUT)
+UID:3c6760ca-4ecf-434f-8915-cf81bde8a198
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240131T230500
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240131T223000
+LOCATION: -
+SEQUENCE:0
+SUMMARY:MATH 138 Quiz 3
+UID:17310c6f-cb9a-48f8-8089-a1cf6b7be5f7
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Considering McLuhan's argument that the medium is the message\
+ , rather than the content of said medium\, give an example of a technolog
+ y that has changed the way people interact and behave. How does analyzing
+  the effects of this technology\, rather than the content it delivers\, p
+ rovide a wider understanding of how technologies affect society and cultu
+ re? What can we learn from this kind of analysis?
+DTEND;TZID=Etc/UTC:20240201T045900
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240201T045900
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 4 Tuesday
+UID:9d7b74e0-18e4-4d96-b3cd-c5040502bd0d
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:As mobile phones began to transition into smartphones with enh
+ anced features\, many other devices became displaced\, but not obsolete. 
+ What are some examples of devices that you or people you know still use a
+ nd carry\, even though smartphones enable those features? Why would these
+  devices or items still be used today\, even though they might be less co
+ nvenient? Are apps really able to replace the functions of external devic
+ es\, and are phones still "phones" anymore?
+DTEND;TZID=Etc/UTC:20240201T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240201T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 4 Thursday
+UID:fca161b2-eb20-4f44-b51a-5b9017044521
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240201T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240201T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 4 Thursday
+UID:a3ba9738-083c-47b5-b69e-ead00116182f
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240201T175000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240201T163000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:fd766c53-4f76-48e6-a98c-644c02a31a9f
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240202T005000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240201T233000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:38610e09-06bf-412b-84da-fb850b80c104
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240202T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240202T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 3
+UID:b287d1bb-8213-4370-83a0-865ead5aec87
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240202T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240202T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:f15993ea-2906-4779-8180-d912245eb298
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240202T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240202T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:7dcbcf1e-103c-4bad-a9bf-354be17a6496
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:As mobile phones began to transition into smartphones with enh
+ anced features\, many other devices became displaced\, but not obsolete. 
+ What are some examples of devices that you or people you know still use a
+ nd carry\, even though smartphones enable those features? Why would these
+  devices or items still be used today\, even though they might be less co
+ nvenient? Are apps really able to replace the functions of external devic
+ es\, and are phones still "phones" anymore?
+DTEND;TZID=Etc/UTC:20240203T045900
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240203T045900
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 4 Thursday
+UID:cfc7f157-2435-4872-985e-7e35e4fd3417
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240203T045959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240203T045959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 3
+UID:50266c81-f35b-44ca-8b72-f4c66ecfebdd
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240205T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240205T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:24880613-f491-407f-acbb-59f2ce89bead
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240205T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240205T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:dc44a30f-1558-45b4-8b8d-8a07d4904f08
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240205T222000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240205T213000
+LOCATION:AL 116
+SEQUENCE:0
+SUMMARY:MATH 136 (TUT)
+UID:cfd79c2a-a61d-4b40-9fa2-6aa42eb28f80
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Quiz is based on Coastal Zones and Mass Movements lectures.
+DTEND;TZID=Etc/UTC:20240206T045959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240206T045959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 4 - Coastal Zones and Mass Movements
+UID:40fee176-f34d-4b29-9003-5c018b314e6c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:The mobile phone is considered an essential tool for many peop
+ le. What are some of the positive and negative effects and implications o
+ f the "always on" capability of the mobile phone? In what ways is this cu
+ lture of immediacy and access intruding on personal and professional life
+ \, and why are people\, especially youths\, so accepting of it? Is the "a
+ lways on" culture a significant part of modern life\, or can we do withou
+ t it?
+DTEND;TZID=Etc/UTC:20240206T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240206T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 5 Tuesday
+UID:8ec6665f-6aac-4ca2-a217-1e9bedfa548c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240206T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240206T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 5 Tuesday
+UID:9f5cc9f3-d591-4cac-9cc7-fc294cd6496b
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240206T175000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240206T163000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:e4fafc38-f39b-4326-9075-45effc60c913
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Tools and Techniques for Software Development Dalibor Dvorski
+DTEND;TZID=Etc/UTC:20240206T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240206T193000
+LOCATION:MC 4063
+SEQUENCE:0
+SUMMARY:CS 136L (LAB)
+UID:52f664ac-98a9-433d-af39-31445b183eca
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240207T005000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240206T233000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:506111cf-7d2b-4059-aa34-da1ea389dce3
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el)
+DTEND;TZID=Etc/UTC:20240207T162000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240207T153000
+LOCATION:MC 2017
+SEQUENCE:0
+SUMMARY:CS 146 (TUT)
+UID:4085809a-9984-4420-9dc1-84a8b3bf74ab
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240207T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240207T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:39eddc65-3fcc-44df-8b05-a08b9ee8f72d
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240207T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240207T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:0ecf2969-439e-4105-949c-5414fc75cec2
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240207T232000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240207T223000
+LOCATION:DC 1350
+SEQUENCE:0
+SUMMARY:MATH 138 (TUT)
+UID:9ac16b1e-fd7c-43dc-bb47-1c9ec309141b
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240207T230500
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240207T223000
+LOCATION: -
+SEQUENCE:0
+SUMMARY:MATH 138 Quiz 4
+UID:0d13c3ec-8b71-47eb-8f37-4c8d9aec9ffe
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:The mobile phone is considered an essential tool for many peop
+ le. What are some of the positive and negative effects and implications o
+ f the "always on" capability of the mobile phone? In what ways is this cu
+ lture of immediacy and access intruding on personal and professional life
+ \, and why are people\, especially youths\, so accepting of it? Is the "a
+ lways on" culture a significant part of modern life\, or can we do withou
+ t it?
+DTEND;TZID=Etc/UTC:20240208T045900
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240208T045900
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 5 Tuesday
+UID:f94da2f3-9cb9-47a7-8c3a-bb61e1cfa2a7
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Concerning affinity learning spaces\, Jenkins and his colleagu
+ es argue that in many ways\, they can be better than formal learning envi
+ ronments. Do you agree or disagree? What are some examples of affinity sp
+ aces (both online and offline) that you know of? What are some benefits o
+ f participating in them\, rather than in formal education in classrooms?
+DTEND;TZID=Etc/UTC:20240208T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240208T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 5 Thursday
+UID:48694d1f-4601-4bbe-aef8-ae9a38328376
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240208T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240208T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 5 Thursday
+UID:507767bf-8a0f-4491-ba28-be2981e23ca6
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240208T175000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240208T163000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:962301cf-c249-46e5-8277-efa111d0bed6
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240209T005000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240208T233000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:e0203568-2b29-47e1-a097-2a67bd0c717d
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240209T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240209T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 4
+UID:609dd8fc-0fb7-45f0-b89f-da62bdc7e281
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240209T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240209T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:78dc7206-a446-440f-94cc-e977e7439a22
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240209T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240209T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:e5241dcc-ec16-48a2-867f-e5198d354598
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Concerning affinity learning spaces\, Jenkins and his colleagu
+ es argue that in many ways\, they can be better than formal learning envi
+ ronments. Do you agree or disagree? What are some examples of affinity sp
+ aces (both online and offline) that you know of? What are some benefits o
+ f participating in them\, rather than in formal education in classrooms?
+DTEND;TZID=Etc/UTC:20240210T045900
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240210T045900
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 5 Thursday
+UID:7e7707f8-024c-4304-96bd-a528f57ca32a
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240210T045959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240210T045959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 4
+UID:e1976885-b039-4939-b065-6231f70173ac
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240212T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240212T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:03f04ce7-5b3e-4c41-b2a7-6b174c6a3d6b
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240212T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240212T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:b1e31aeb-3b40-4107-99c5-4a329283e02c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240212T222000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240212T213000
+LOCATION:AL 116
+SEQUENCE:0
+SUMMARY:MATH 136 (TUT)
+UID:b822d6ea-8262-4ced-9fb6-9c27e75057fe
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240213T015000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240213T000000
+LOCATION:
+SEQUENCE:0
+SUMMARY:MATH 136 (TST)
+UID:08d59d40-f4a5-41c8-85be-5e16ee23aabf
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Quiz based on lecture about Streams and Flooding
+DTEND;TZID=Etc/UTC:20240213T045959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240213T045959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 5 - Streams and Flooding
+UID:99033f20-3272-4917-b880-6206219b3636
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Social network analysis assumes that different forms of self\,
+  activity and behaviour are all related. What are the various ways that y
+ ou use social media for networking purposes? Discuss your own use of soci
+ al media for networking and professional use\, rather than for fun. This 
+ can include participating in social and cultural activism as well. Are th
+ ere any differences in terms of how you present yourself?
+DTEND;TZID=Etc/UTC:20240213T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240213T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 6 Tuesday
+UID:ebf5b978-6cbc-489b-aeba-0b66ca168da6
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240213T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240213T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 6 Tuesday
+UID:3f6613f3-b93a-4459-8a3d-a2a582a2ba2d
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240213T175000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240213T163000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:4c5262ca-798d-4536-a063-545ba5605383
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Tools and Techniques for Software Development Dalibor Dvorski
+DTEND;TZID=Etc/UTC:20240213T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240213T193000
+LOCATION:MC 4063
+SEQUENCE:0
+SUMMARY:CS 136L (LAB)
+UID:1c8fd517-2796-489c-b297-b2dcc9a6fe4e
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240214T005000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240213T233000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:31bf2d75-9836-48cf-8932-3cebdda4840c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el)
+DTEND;TZID=Etc/UTC:20240214T162000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240214T153000
+LOCATION:MC 2017
+SEQUENCE:0
+SUMMARY:CS 146 (TUT)
+UID:003dad36-4536-4e04-a6e3-72f492a07c98
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240214T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240214T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:ddac63b4-45fc-4e19-9667-8497e35e3682
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240214T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240214T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:687e58c3-6731-4728-9254-6a6b7ecc7be7
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240214T232000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240214T223000
+LOCATION:DC 1350
+SEQUENCE:0
+SUMMARY:MATH 138 (TUT)
+UID:c8f4b989-4dd3-49fc-bfde-243e664e9162
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240214T230500
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240214T223000
+LOCATION: -
+SEQUENCE:0
+SUMMARY:MATH 138 Quiz 5
+UID:3c797d1f-f19d-40f1-b314-3d056c64dff8
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Social network analysis assumes that different forms of self\,
+  activity and behaviour are all related. What are the various ways that y
+ ou use social media for networking purposes? Discuss your own use of soci
+ al media for networking and professional use\, rather than for fun. This 
+ can include participating in social and cultural activism as well. Are th
+ ere any differences in terms of how you present yourself?
+DTEND;TZID=Etc/UTC:20240215T045900
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240215T045900
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 6 Tuesday
+UID:b4ddc615-d747-4665-821f-af45b6ff6333
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Chapter 5 of the textbook suggests that creation is the new co
+ nsumption. Ever since platforms like YouTube\, Instagram and Tik Tok beca
+ me popular\, consumers have found it easy to shift into becoming producer
+ s. However\, it seems as if today\, people often spend more time consumin
+ g\, liking\, and sharing content than actually creating new content. How 
+ do you define "participatory" culture? With so many people interested in 
+ gaining social capital and becoming influencers\, what are they really pr
+ oducing?
+DTEND;TZID=Etc/UTC:20240215T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240215T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 6 Thursday
+UID:d3aa6834-5d31-4fe6-8825-3bb1db09e2e6
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240215T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240215T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 6 Thursday
+UID:05a186a3-a31f-4366-9347-1ed596e71e49
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240215T175000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240215T163000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:209c061e-165e-433a-bf94-d0995df1bd18
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240216T005000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240215T233000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:15ab078c-5d29-4c2f-9941-5b1c56a4aaae
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:See Student Financial Services website (https://uwaterloo.ca/f
+ inance/student-financial-services/due-dates-and-late-fees).
+DTEND;TZID=America/Toronto;VALUE=DATE:20240217
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240216
+SEQUENCE:0
+SUMMARY:Tuition and fee refund deadline - 50%
+UID:b97a8334-e8b5-4556-a3bb-99c58dc6bcb0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240216T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240216T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 5
+UID:51cf9430-2aba-44f6-a3ae-2c5d06f71aef
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240216T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240216T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:03304fd5-448a-4ab9-b18b-4c7c720e9f53
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240216T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240216T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:1993a09c-212f-4b92-ad0d-51ba432facea
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Chapter 5 of the textbook suggests that creation is the new co
+ nsumption. Ever since platforms like YouTube\, Instagram and Tik Tok beca
+ me popular\, consumers have found it easy to shift into becoming producer
+ s. However\, it seems as if today\, people often spend more time consumin
+ g\, liking\, and sharing content than actually creating new content. How 
+ do you define "participatory" culture? With so many people interested in 
+ gaining social capital and becoming influencers\, what are they really pr
+ oducing?
+DTEND;TZID=Etc/UTC:20240217T045900
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240217T045900
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 6 Thursday
+UID:64a1f746-9d8b-465d-bf45-68677b3d3345
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240217T045959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240217T045959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 5
+UID:bc627c93-bc5b-41ad-9a92-84f56a1467f5
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Quiz based on the ice/glaciers and wind/deserts lecture and th
+ e climate lecture.
+DTEND;TZID=Etc/UTC:20240217T045959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240217T045959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 6 - Ice/Glaciers\, Wind/Deserts\, & Climate
+UID:eae84f91-050f-44fc-a794-249ae32cfe7e
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:All classes cancelled\; offices closed on the weekends and the
+  holiday Monday.Undergraduate students: view the Undergraduate Studies Ac
+ ademic Calendar (http://ugradcalendar.uwaterloo.ca/page/Acad-Regs-Schedul
+ ed-Pauses) for more details.Graduate students: view the Graduate Studies 
+ Academic Calendar (https://uwaterloo.ca/graduate-studies-academic-calenda
+ r/general-information-and-regulations/reading-week) for more details.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240226
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240217
+SEQUENCE:0
+SUMMARY:Reading Week
+UID:6487a603-6fe7-4777-ada2-871b3dd2d717
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:All classes cancelled and offices closed.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240220
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240219
+SEQUENCE:0
+SUMMARY:Family Day
+UID:aacefb57-a04b-4b96-a4c7-b34728817a3f
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240219T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240219T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:fda5774a-b7ac-48b9-8631-7b72063ad989
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240219T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240219T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:05192874-2c29-446c-b070-269efbb6c8aa
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240219T222000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240219T213000
+LOCATION:AL 116
+SEQUENCE:0
+SUMMARY:MATH 136 (TUT)
+UID:58ee17f9-d352-4f4c-9bb2-523ec0093377
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240220T175000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240220T163000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:93d114a8-d7ac-45f2-8ee1-6af4c539a145
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Tools and Techniques for Software Development Dalibor Dvorski
+DTEND;TZID=Etc/UTC:20240220T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240220T193000
+LOCATION:MC 4063
+SEQUENCE:0
+SUMMARY:CS 136L (LAB)
+UID:0554e30b-e1bd-4f9b-afa5-d1b7d77ff8d4
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240221T005000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240220T233000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:be36e00e-80be-4e69-aa5f-24c20d5589e3
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el)
+DTEND;TZID=Etc/UTC:20240221T162000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240221T153000
+LOCATION:MC 2017
+SEQUENCE:0
+SUMMARY:CS 146 (TUT)
+UID:281a3760-1bd0-451c-b1e5-687d3aadd19b
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240221T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240221T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:8ba26e8e-ad03-4329-9550-21350c72b235
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240221T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240221T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:087002de-837f-4606-a489-c8bae0c3a32e
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240221T232000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240221T223000
+LOCATION:DC 1350
+SEQUENCE:0
+SUMMARY:MATH 138 (TUT)
+UID:6b952834-3503-4916-8361-1ef3d0b57c3f
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240222T175000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240222T163000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:a5d3e0b5-e797-44bc-aa86-3467f7ded1de
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240223T005000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240222T233000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:afaef098-6453-4d73-aa3a-a8f9f68a350a
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240223T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240223T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:03750ffc-9a8d-482b-959f-f6c482201c16
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240223T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240223T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:1dca1ee4-c400-4d53-ad26-18acfbd50263
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240226T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240226T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:3ebf2c0d-30c3-43c4-a293-02b3f5119a32
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240226T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240226T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:9289c9bc-cacb-4018-b38d-6d2c8117e62c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240226T222000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240226T213000
+LOCATION:AL 116
+SEQUENCE:0
+SUMMARY:MATH 136 (TUT)
+UID:6e634b33-3e97-458e-8aa0-e19ceaece641
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240227T015000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240227T000000
+LOCATION:
+SEQUENCE:0
+SUMMARY:MATH 138 (TST)
+UID:e759c31b-1fb3-4a20-bf46-9018582c91fe
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Gladwell claims the new tools of social media have reinvented 
+ social activism. In what ways have social activism changed\, for better o
+ r for worse? He also argues that weak ties rarely lead to high-risk activ
+ ism. Why is this the case\, and does this mean that weak ties online are 
+ less effective than high-risk social ties that affect people in physical 
+ protests? Alternatively\, do you believe that Rosenblatt gives too much c
+ redit to what Gladwell calls "slacktivism?" How do you feel about the shi
+ ft in online culture\, that sees the voices of the youth being amplified 
+ more than ever?
+DTEND;TZID=Etc/UTC:20240227T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240227T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 7 Tuesday
+UID:a53e3793-c687-49d3-a313-7063b13be91c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240227T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240227T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 7 Tuesday
+UID:318b87a6-5ef3-4190-9712-7b0b77e62f6f
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240227T175000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240227T163000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:a2bce655-89ca-40e7-90c2-bfeb8ad75ac1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Tools and Techniques for Software Development Dalibor Dvorski
+DTEND;TZID=Etc/UTC:20240227T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240227T193000
+LOCATION:MC 4063
+SEQUENCE:0
+SUMMARY:CS 136L (LAB)
+UID:160bc0ad-63e0-42c0-8c49-65198ffdc239
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240228T005000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240227T233000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:9d0c6534-a38e-4ad4-9a30-53adaf6e2b1d
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el)
+DTEND;TZID=Etc/UTC:20240228T162000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240228T153000
+LOCATION:MC 2017
+SEQUENCE:0
+SUMMARY:CS 146 (TUT)
+UID:68bbc883-1e7f-4298-8bf7-2e7ae5d07582
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240228T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240228T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:c592cc38-c741-4835-b534-02cb215760af
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240228T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240228T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:af9dce17-49a6-4cb6-a2f2-070490035175
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240228T232000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240228T223000
+LOCATION:DC 1350
+SEQUENCE:0
+SUMMARY:MATH 138 (TUT)
+UID:dde7d630-4887-4e70-8ccf-5d4750c8a113
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Gladwell claims the new tools of social media have reinvented 
+ social activism. In what ways have social activism changed\, for better o
+ r for worse? He also argues that weak ties rarely lead to high-risk activ
+ ism. Why is this the case\, and does this mean that weak ties online are 
+ less effective than high-risk social ties that affect people in physical 
+ protests? Alternatively\, do you believe that Rosenblatt gives too much c
+ redit to what Gladwell calls "slacktivism?" How do you feel about the shi
+ ft in online culture\, that sees the voices of the youth being amplified 
+ more than ever?
+DTEND;TZID=Etc/UTC:20240229T045900
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240229T045900
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 7 Tuesday
+UID:8ef7f510-5e9b-48c5-8751-32ad5c7d5bf8
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:How does the performative nature of online activism on platfor
+ ms like Twitter affect the authenticity and effectiveness of contemporary
+  social justice movements? In what ways can individuals strike a balance 
+ between performative activism and genuine engagement to ensure inclusivit
+ y and meaningful impact within online communities\, without centering the
+ mselves in the conversation and detracting from the issue?
+DTEND;TZID=Etc/UTC:20240229T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240229T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 7 Thursday
+UID:02cc6dc0-9c39-4e98-99cb-781ad71ea913
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240229T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240229T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 7 Thursday
+UID:05577a16-21cb-4322-b497-65a4264033a2
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Quiz based on Mineral and Rock Resources lecture and Fossil Fu
+ els lecture
+DTEND;TZID=Etc/UTC:20240229T130000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240229T130000
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 7 - Mineral/Rock Resources & Fossil Fuels
+UID:f57d8700-5e0a-489b-904b-63d839289ae9
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240229T175000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240229T163000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:c30cb908-ded9-4423-aa41-4cfd41873c3d
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240301T005000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240229T233000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:9b96e788-0aba-41b2-b27c-802c460033aa
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240301T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240301T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:72d09e53-ccd3-45db-9824-1986324e86f3
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240301T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240301T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:b6bb3018-a0e1-4a5b-9801-a3b369d42bdc
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:How does the performative nature of online activism on platfor
+ ms like Twitter affect the authenticity and effectiveness of contemporary
+  social justice movements? In what ways can individuals strike a balance 
+ between performative activism and genuine engagement to ensure inclusivit
+ y and meaningful impact within online communities\, without centering the
+ mselves in the conversation and detracting from the issue?
+DTEND;TZID=Etc/UTC:20240302T045900
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240302T045900
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 7 Thursday
+UID:85987c16-5139-4d8f-b873-977c62e0ce03
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240304T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240304T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:132a2f84-cc00-4a4a-b87e-4c856dfa8267
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240304T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240304T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:5722077b-59d6-4448-a55c-1174eb41aa05
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240304T222000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240304T213000
+LOCATION:AL 116
+SEQUENCE:0
+SUMMARY:MATH 136 (TUT)
+UID:bf659ab8-e642-41bc-96a2-67a07146bd7a
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Karen Anderson
+DTEND;TZID=Etc/UTC:20240305T015000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240305T000000
+LOCATION:
+SEQUENCE:0
+SUMMARY:CS 146 (TST)
+UID:46c87441-6987-426c-bb33-1b12f447a1b2
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240305T015000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240305T000000
+LOCATION: -
+SEQUENCE:0
+SUMMARY:CS 146 Midterm
+UID:c9b66903-8117-43e1-87c5-1879edd90ed1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:To what degree do you believe misinformation\, disinformation\
+ , or mal-information should be controlled by social media platforms and/o
+ r governments? Should efforts only be focused on education and critical t
+ hinking\, or also on moderating content that is posted\, if it could harm
+  others? Answer the question by talking about at least one of the three t
+ ypes of information mentioned above\, as they all differ slightly.
+DTEND;TZID=Etc/UTC:20240305T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240305T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 8 Tuesday
+UID:3504c4fb-e23d-4554-947a-cfb16cbc8e3a
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240305T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240305T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 8 Tuesday
+UID:c7d00f11-c05b-4e5e-8cc5-8ce9e8c60139
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240305T175000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240305T163000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:189a0bbc-1b5d-40e1-91de-abb327916725
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Tools and Techniques for Software Development Dalibor Dvorski
+DTEND;TZID=Etc/UTC:20240305T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240305T193000
+LOCATION:MC 4063
+SEQUENCE:0
+SUMMARY:CS 136L (LAB)
+UID:b0421cdb-e71e-4223-b385-cc9a04e51511
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240306T005000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240305T233000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:ef11a69d-b45f-41f3-a42b-7788f158f400
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el)
+DTEND;TZID=Etc/UTC:20240306T162000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240306T153000
+LOCATION:MC 2017
+SEQUENCE:0
+SUMMARY:CS 146 (TUT)
+UID:87ee5c44-4c23-4584-ae1c-00f0cc5b5ca5
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240306T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240306T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:ac06c926-cdb1-41d7-9bba-3d8cfed4b516
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240306T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240306T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:138e53f0-887b-4abe-a3c7-6c11f3731f37
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240306T232000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240306T223000
+LOCATION:DC 1350
+SEQUENCE:0
+SUMMARY:MATH 138 (TUT)
+UID:8c96f617-b41a-4a39-9a0b-7a13dd6222f9
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240306T230500
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240306T223000
+LOCATION: -
+SEQUENCE:0
+SUMMARY:MATH 138 Quiz 6
+UID:843f0a6a-ea65-41b8-9858-b9f0cf155707
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:To what degree do you believe misinformation\, disinformation\
+ , or mal-information should be controlled by social media platforms and/o
+ r governments? Should efforts only be focused on education and critical t
+ hinking\, or also on moderating content that is posted\, if it could harm
+  others? Answer the question by talking about at least one of the three t
+ ypes of information mentioned above\, as they all differ slightly.
+DTEND;TZID=Etc/UTC:20240307T045900
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240307T045900
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 8 Tuesday
+UID:9d628cce-77f6-43e6-bfa5-1028bc1bd88e
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Quiz based on Mineral and Rock Resources lecture and Fossil Fu
+ els lecture
+DTEND;TZID=Etc/UTC:20240307T045959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240307T045959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 7 - Mineral/Rock Resources & Fossil Fuels
+UID:f7d8751e-1d33-4216-83bb-afd298929693
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:In the era of information sharing with a click of a button\, w
+ hy do you think so many people tend to re-post articles they do not actua
+ lly read in full? Or rather\, why do they re-post anything without verify
+ ing the information? Why does confirmation bias cause people to dismiss h
+ ow and where information is produced? What do people hope to gain from pa
+ rticipating in the knowledge economy in this way\, and how can it be miti
+ gated?
+DTEND;TZID=Etc/UTC:20240307T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240307T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 8 Thursday
+UID:b0c5d474-cdbc-4d38-9136-1f7c90a15147
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240307T050100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240307T050100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 8 Thursday
+UID:5af5f3a3-832c-4752-bd3d-e29702b7a010
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Quiz is based on Alternative Energy lectures
+DTEND;TZID=Etc/UTC:20240307T130000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240307T130000
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 8 - Alternative Energy
+UID:19ffcec6-ebee-4184-9279-c14a37d70313
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240307T175000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240307T163000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:4950d696-32c5-4911-99cc-03a492b9b458
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240308T005000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240307T233000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:a4d4f388-a8fb-4aae-8a89-7e89971b647d
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240308T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240308T193000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:ef9fc00a-7bc7-4d2c-84e6-05e000dc4187
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240308T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240308T203000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:5b5b246e-7288-4ca6-962a-0dc896458fe4
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:In the era of information sharing with a click of a button\, w
+ hy do you think so many people tend to re-post articles they do not actua
+ lly read in full? Or rather\, why do they re-post anything without verify
+ ing the information? Why does confirmation bias cause people to dismiss h
+ ow and where information is produced? What do people hope to gain from pa
+ rticipating in the knowledge economy in this way\, and how can it be miti
+ gated?
+DTEND;TZID=Etc/UTC:20240309T045900
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240309T045900
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 8 Thursday
+UID:877c6cd6-bb47-4b22-8d07-317ed12274fd
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240311T192000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240311T183000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:4411cb1f-ba2e-4a31-bb0e-55f7a8efa8e0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240311T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240311T193000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:218ba9ab-4c60-403d-9865-841f392d5b4d
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240311T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240311T203000
+LOCATION:AL 116
+SEQUENCE:0
+SUMMARY:MATH 136 (TUT)
+UID:ec5e5db5-42bc-4b52-a431-898bb405950c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:In this essay\, Harris blames software developers for designin
+ g smartphones to be addictive\, and suggests that users are being manipul
+ ated without their knowledge. Do you believe people are as unaware as Har
+ ris suggests\, and that they don't realize that conveniences come at the 
+ cost of their attention? Do you think that smartphone designs are merely 
+ complying with what people expect their devices to do for them? Is the on
+ us on individuals to monitor their own digital participation\, or are the
+  designers to blame\, like Harris argues?
+DTEND;TZID=Etc/UTC:20240312T040100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240312T040100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 9 Tuesday
+UID:e16eb64e-93fe-402f-b4e2-8dfc2847ba0f
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240312T040100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240312T040100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 9 Tuesday
+UID:9a0c1692-2dac-4152-a95e-9796d2c755b9
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240312T165000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240312T153000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:e8236660-aa11-44b1-9a9a-b0b716b9dea5
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Tools and Techniques for Software Development Dalibor Dvorski
+DTEND;TZID=Etc/UTC:20240312T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240312T183000
+LOCATION:MC 4063
+SEQUENCE:0
+SUMMARY:CS 136L (LAB)
+UID:8e9205e8-c435-47fc-a875-e7c9f96872f9
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240312T235000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240312T223000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:c737a147-5494-4542-b43d-d3e8f781968b
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el)
+DTEND;TZID=Etc/UTC:20240313T152000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240313T143000
+LOCATION:MC 2017
+SEQUENCE:0
+SUMMARY:CS 146 (TUT)
+UID:c907c650-b35e-4822-8c70-542e340324fb
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240313T192000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240313T183000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:6a929550-a577-4a86-8cb8-f4712e58d888
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240313T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240313T193000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:aaa1fe71-2231-4cf2-a692-0cf69670a41c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240313T222000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240313T213000
+LOCATION:DC 1350
+SEQUENCE:0
+SUMMARY:MATH 138 (TUT)
+UID:a2915d5d-a0f3-4e12-a290-c4faad3f763a
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240313T220500
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240313T213000
+LOCATION: -
+SEQUENCE:0
+SUMMARY:MATH 138 Quiz 7
+UID:8850aef8-3094-44fe-aa2f-c04903c35572
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:In this essay\, Harris blames software developers for designin
+ g smartphones to be addictive\, and suggests that users are being manipul
+ ated without their knowledge. Do you believe people are as unaware as Har
+ ris suggests\, and that they don't realize that conveniences come at the 
+ cost of their attention? Do you think that smartphone designs are merely 
+ complying with what people expect their devices to do for them? Is the on
+ us on individuals to monitor their own digital participation\, or are the
+  designers to blame\, like Harris argues?
+DTEND;TZID=Etc/UTC:20240314T035900
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240314T035900
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 9 Tuesday
+UID:1af63a98-8a75-4bd4-8877-a410dde4bcf3
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Looking at Madrigal's article\, how would you analyze the noti
+ on of "technoanxiety" and its impact on contemporary society? How do you 
+ interpret the author's critique of the digital detox movement as a form o
+ f "artificial" human creation\, and the perceived need to disconnect from
+  modern technology? How effective is the digital detox movement in terms 
+ of returning humanity to nature\, and does this improve individual well-b
+ eing?
+DTEND;TZID=Etc/UTC:20240314T040100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240314T040100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 9 Thursday
+UID:71852f5b-caf2-4d29-a30d-9b5c9df93f89
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240314T040100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240314T040100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 9 Thursday
+UID:64db6e2e-23fc-4b6d-8893-9039f32ede39
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240314T165000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240314T153000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:c6fd9deb-ea20-4a2b-8956-e8827bb11910
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240314T235000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240314T223000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:e779cee6-dadf-461b-9831-6b8587652f5e
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240315T040100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240315T040100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 8
+UID:55d34b14-20b7-460e-b6a6-25b078de3510
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240315T192000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240315T183000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:9f358f58-71a9-4af2-92b0-ac036313d8cd
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240315T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240315T193000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:270c452d-52e3-42f7-b077-1699eedb6f1a
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Looking at Madrigal's article\, how would you analyze the noti
+ on of "technoanxiety" and its impact on contemporary society? How do you 
+ interpret the author's critique of the digital detox movement as a form o
+ f "artificial" human creation\, and the perceived need to disconnect from
+  modern technology? How effective is the digital detox movement in terms 
+ of returning humanity to nature\, and does this improve individual well-b
+ eing?
+DTEND;TZID=Etc/UTC:20240316T035900
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240316T035900
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 9 Thursday
+UID:04ea9d7b-b86e-46e7-9948-899083cfd65e
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240316T035959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240316T035959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 8
+UID:b89edb41-b69f-43bd-ad76-913ef5ca0794
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240318T192000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240318T183000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:39d4771d-a544-4c5f-8305-e1a86662907f
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240318T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240318T193000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:63699836-5975-475b-b76e-a18fea44383c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240318T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240318T203000
+LOCATION:AL 116
+SEQUENCE:0
+SUMMARY:MATH 136 (TUT)
+UID:2cf8769f-cd54-42d4-9634-bf5c714fc7d1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Quiz is based on Alternative Energy lectures
+DTEND;TZID=Etc/UTC:20240319T035959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240319T035959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 8 - Alternative Energy
+UID:91b3c769-57c4-4de7-af5d-8edd73d915d9
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:In the first article\, Turkle argues that the mere presence of
+  a smartphone on a table will prevent people from engaging in a meaningfu
+ l and thoughtful discussion\, due to the anticipation of being interrupte
+ d by a notification. Do you think this is true? Is the presence of a comm
+ unicaton device always threatening to divert our attention from the physi
+ cal space we are occupying\, or can it add to that same space and draw pe
+ ople together?
+DTEND;TZID=Etc/UTC:20240319T040100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240319T040100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 10 Tuesday
+UID:65922583-3202-47a1-b89b-e16dce0aa99c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240319T040100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240319T040100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 10 Tuesday
+UID:17914413-253d-4c19-9c1b-97ce3b08f233
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Quiz is based on Groundwater/Water Resources lecture and Weath
+ er/Erosion/Soil Resources lecture.
+DTEND;TZID=Etc/UTC:20240319T120000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240319T120000
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 9 - Water Resources & Erosion/Soil Resources
+UID:bc265a5b-a7b6-438e-b930-fcabba5bac0c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240319T165000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240319T153000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:3c6090c5-00dd-4d42-a876-43ffd3c64d1f
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Tools and Techniques for Software Development Dalibor Dvorski
+DTEND;TZID=Etc/UTC:20240319T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240319T183000
+LOCATION:MC 4063
+SEQUENCE:0
+SUMMARY:CS 136L (LAB)
+UID:da728dbb-9829-4212-b140-7806398e6443
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240319T235000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240319T223000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:2373fd80-17f5-4a85-ab45-a815ae07199a
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el)
+DTEND;TZID=Etc/UTC:20240320T152000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240320T143000
+LOCATION:MC 2017
+SEQUENCE:0
+SUMMARY:CS 146 (TUT)
+UID:0c592170-c871-4fce-9297-7f589cb7b7ed
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240320T192000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240320T183000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:e3f25227-1a67-42c8-a151-afceb2988760
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240320T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240320T193000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:3b0a1835-df2c-4040-b398-d221c52f4a59
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240320T222000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240320T213000
+LOCATION:DC 1350
+SEQUENCE:0
+SUMMARY:MATH 138 (TUT)
+UID:83016fc4-3154-43a6-9082-5869d28fc39e
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240320T220500
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240320T213000
+LOCATION: -
+SEQUENCE:0
+SUMMARY:MATH 138 Quiz 8
+UID:d4a4d276-fe06-40bf-aea8-5d12f0136567
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:In the first article\, Turkle argues that the mere presence of
+  a smartphone on a table will prevent people from engaging in a meaningfu
+ l and thoughtful discussion\, due to the anticipation of being interrupte
+ d by a notification. Do you think this is true? Is the presence of a comm
+ unicaton device always threatening to divert our attention from the physi
+ cal space we are occupying\, or can it add to that same space and draw pe
+ ople together?
+DTEND;TZID=Etc/UTC:20240321T035900
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240321T035900
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 10 Tuesday
+UID:578366fd-f96e-433d-b067-1511b7c78288
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:How do you compare Turkle's position with Jurgenson's? Do you 
+ agree with Jurgenson that those who feel a loss of connection are becomin
+ g too obsessed with the idea of being offline\, to the point of fetishiza
+ tion? Is our newfound appreciation of slowness and boredom simply a react
+ ion to an oversaturated world of informatic noise\, but one that will not
+  last\, once we get used to it?
+DTEND;TZID=Etc/UTC:20240321T040100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240321T040100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 10 Thursday
+UID:cb680ca5-c7a9-4017-9b69-1a5be0495b40
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240321T040100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240321T040100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 10 Thursday
+UID:eef109f5-0e2c-479a-9df6-0bfe300caf7b
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240321T165000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240321T153000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:2a7d480f-9a6e-40d8-8ab5-a6722eef811f
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240321T235000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240321T223000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:2596368c-c88c-4558-bdf3-9d81c2145693
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Last day to drop (https://uwaterloo.ca/quest/help/students/how
+ -do-i/drop-classes) a class and receive a WD (Withdrew\, no credit grante
+ d) grade.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240323
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240322
+SEQUENCE:0
+SUMMARY:Drop with WD ends
+UID:246ad1f7-ea21-4057-bbe9-96dc08aa3f83
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240322T040100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240322T040100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 9
+UID:6c55da0e-9b1f-4038-a7a7-837d80c6cbdc
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240322T192000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240322T183000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:912ba16e-ed2d-42a8-ab2c-fe8c540f4ed3
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240322T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240322T193000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:d833fd5a-efb1-4411-9d4d-ceb6a435534d
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:How do you compare Turkle's position with Jurgenson's? Do you 
+ agree with Jurgenson that those who feel a loss of connection are becomin
+ g too obsessed with the idea of being offline\, to the point of fetishiza
+ tion? Is our newfound appreciation of slowness and boredom simply a react
+ ion to an oversaturated world of informatic noise\, but one that will not
+  last\, once we get used to it?
+DTEND;TZID=Etc/UTC:20240323T035900
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240323T035900
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 10 Thursday
+UID:45041256-317e-4c1e-aba3-70d36726f8c1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240323T035959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240323T035959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 9
+UID:0c1aa866-311a-4686-a3a5-233a14514630
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:WF (Withdrew/Failure\, no credit granted\, value 32) grade ass
+ igned for class(es) dropped during this period.Engineering students: Visi
+ t course load (http://ugradcalendar.uwaterloo.ca/page/ENG-Examinations-an
+ d-Promotions-Rules) and withdrawal (http://ugradcalendar.uwaterloo.ca/pag
+ e/ENG-Voluntary-Withdrawals-1) in the Undergraduate Calendar for specific
+  regulations.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240324
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240323
+SEQUENCE:0
+SUMMARY:Drop with WF begins
+UID:12ba6d51-60e0-4654-8973-4c70c5ceb2cd
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240325T192000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240325T183000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:108737f9-fcd7-43f5-b2bc-4ac3edb3f487
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240325T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240325T193000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:515b3155-0e2e-4184-b566-d8e8a58343a5
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240325T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240325T203000
+LOCATION:AL 116
+SEQUENCE:0
+SUMMARY:MATH 136 (TUT)
+UID:1b78bbcc-ddff-45b1-b0b5-5d0825227eb9
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Quiz is based on Groundwater/Water Resources lecture and Weath
+ er/Erosion/Soil Resources lecture.
+DTEND;TZID=Etc/UTC:20240326T035959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240326T035959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 9 - Water Resources & Erosion/Soil Resources
+UID:17dd29c4-c418-411e-a603-ddac84871769
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Narrative identity theory suggests that when an author writes 
+ their autobiography\, the self is already a story and the person is alrea
+ dy a profile\, long before any decisions are made in terms of what to inc
+ lude or omit. Do you agree? Compared to how you (or people you know) used
+  to use social media when it was first becoming popular in the early 2010
+ s\, how much do you narrate your self-presentation as a story?
+DTEND;TZID=Etc/UTC:20240326T040100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240326T040100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 11 Tuesday
+UID:f40854e4-7043-413e-a2cf-ae0743d41387
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240326T040100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240326T040100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 11 Tuesday
+UID:76d6d308-ab7f-45e5-bfea-4fda91827db8
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240326T165000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240326T153000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:c0868482-834c-4ae2-b599-4d566b3a187f
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Tools and Techniques for Software Development Dalibor Dvorski
+DTEND;TZID=Etc/UTC:20240326T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240326T183000
+LOCATION:MC 4063
+SEQUENCE:0
+SUMMARY:CS 136L (LAB)
+UID:2bc6bbe4-7f9e-42a4-b1ea-aa4859fceb4f
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240326T235000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240326T223000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:ed475a05-3663-415b-8dda-e68c63718bd7
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el)
+DTEND;TZID=Etc/UTC:20240327T152000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240327T143000
+LOCATION:MC 2017
+SEQUENCE:0
+SUMMARY:CS 146 (TUT)
+UID:8dd2b357-8772-4131-977e-13497f228800
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240327T192000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240327T183000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:10a41c8b-acad-4006-931a-fa8e84d42efb
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240327T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240327T193000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:e4f760a5-b7d8-4beb-8353-e55d1102712f
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240327T222000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240327T213000
+LOCATION:DC 1350
+SEQUENCE:0
+SUMMARY:MATH 138 (TUT)
+UID:36e8f910-36b7-4710-afb4-a89f37ec88f0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240327T220500
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240327T213000
+LOCATION: -
+SEQUENCE:0
+SUMMARY:MATH 138 Quiz 9
+UID:30beabf8-499d-46a2-b417-3a481a6662b2
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Narrative identity theory suggests that when an author writes 
+ their autobiography\, the self is already a story and the person is alrea
+ dy a profile\, long before any decisions are made in terms of what to inc
+ lude or omit. Do you agree? Compared to how you (or people you know) used
+  to use social media when it was first becoming popular in the early 2010
+ s\, how much do you narrate your self-presentation as a story?
+DTEND;TZID=Etc/UTC:20240328T035900
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240328T035900
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 11 Tuesday
+UID:4a992816-3a98-4cab-a739-e9b99a0081fa
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:In Giroux's article\, he argues that selfie culture within the
+  context of corporate and state surveillance has individuals inadvertentl
+ y contributing to their own surveillance by willingly sharing personal in
+ formation and images on digital platforms. Do you agree that individuals 
+ are complicit in the societal concerns surrounding digital privacy?
+DTEND;TZID=Etc/UTC:20240328T040100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240328T040100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 11 Thursday
+UID:0e3307e4-8986-4a7a-b64c-01bd819943a9
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240328T040100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240328T040100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 11 Thursday
+UID:9cbb8ae3-da1b-445b-9051-c51771391b0c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240328T165000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240328T153000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:c1444c87-6364-4dd2-9ac2-28d0257d59a4
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240328T235000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240328T223000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:83a2b5bd-7ec7-4187-9679-a50e13fd9b0f
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:All classes cancelled and offices closed.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240330
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240329
+SEQUENCE:0
+SUMMARY:Good Friday
+UID:1db77df6-ecb5-4a8e-8c05-825c2ad01c81
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240329T192000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240329T183000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:68dd4a1b-8453-489e-9710-c8ba7f72410b
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240329T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240329T193000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:949f9280-00b2-4ca4-baf5-cc53c367cdab
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:In Giroux's article\, he argues that selfie culture within the
+  context of corporate and state surveillance has individuals inadvertentl
+ y contributing to their own surveillance by willingly sharing personal in
+ formation and images on digital platforms. Do you agree that individuals 
+ are complicit in the societal concerns surrounding digital privacy?
+DTEND;TZID=Etc/UTC:20240331T035900
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240331T035900
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 11 Thursday
+UID:61ec8ad9-95b5-4640-80c6-f6d3d1f5e134
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Quiz is based on the Air Pollution lecture
+DTEND;TZID=Etc/UTC:20240401T040100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240401T040100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 11 - Air Pollution
+UID:3a5ffd62-c71f-4b08-b205-9ba42ccdfaca
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240401T192000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240401T183000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:527848af-e829-4ed9-8e06-db4bfcd198cf
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240401T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240401T193000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:2a0c80b7-b8c5-4864-8646-cb33e1e3c525
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240401T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240401T203000
+LOCATION:AL 116
+SEQUENCE:0
+SUMMARY:MATH 136 (TUT)
+UID:2abfaac6-a39c-4451-8adf-7d235aaa7e8f
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Quiz is based on the Waste Disposal and Water Pollution lectur
+ es
+DTEND;TZID=Etc/UTC:20240402T035959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240402T035959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 10 - Waste Disposal & Water Pollution
+UID:df995f2e-479a-4d69-8dfc-5aaafd587c7d
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:TBA
+DTEND;TZID=Etc/UTC:20240402T040100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240402T040100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 12 Tuesday
+UID:4b27694e-a2ee-4bb8-892e-38e682ec1466
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240402T165000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240402T153000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:f24774b8-5293-44d3-b647-83ed0f7848d9
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Tools and Techniques for Software Development Dalibor Dvorski
+DTEND;TZID=Etc/UTC:20240402T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240402T183000
+LOCATION:MC 4063
+SEQUENCE:0
+SUMMARY:CS 136L (LAB)
+UID:b98400f9-e67b-4182-a469-6aeb33121d36
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240402T235000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240402T223000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:7e60be3b-0bfb-4d91-b4c4-d982451f971b
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el)
+DTEND;TZID=Etc/UTC:20240403T152000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240403T143000
+LOCATION:MC 2017
+SEQUENCE:0
+SUMMARY:CS 146 (TUT)
+UID:0ea7e35d-50c2-4ef2-8c62-c00e23520882
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240403T192000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240403T183000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:7dac2f1b-6859-4818-a05d-36afcde34f96
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240403T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240403T193000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:603f05ee-42a4-4122-b85b-ab869efbefcb
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240403T222000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240403T213000
+LOCATION:DC 1350
+SEQUENCE:0
+SUMMARY:MATH 138 (TUT)
+UID:3bdde958-0ee3-4756-ab61-d6944e16e6bb
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240403T220500
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240403T213000
+LOCATION: -
+SEQUENCE:0
+SUMMARY:MATH 138 Quiz 10
+UID:3c35a51c-f249-4501-bc82-f9ba55acf9d3
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:TBA
+DTEND;TZID=Etc/UTC:20240404T035959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240404T035959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 12 Tuesday
+UID:195fac8a-3bb4-4c0e-ac6c-b7d277842436
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:How might the widespread adoption of generative AI technologie
+ s in the workplace impact job displacement across various industries\, an
+ d what strategies could be implemented to mitigate potential negative eff
+ ects on the workforce? Despite how beneficial AI is\, how can we ensure t
+ hat its development and deployment are conducted ethically to safeguard a
+ gainst biases\, discrimination\, and unintended consequences\, while prom
+ oting transparency and accountability in AI systems?
+DTEND;TZID=Etc/UTC:20240404T040100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240404T040100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 12 Thursday
+UID:3366fb41-066f-49d2-bf83-248662a3f0ed
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240404T040100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240404T040100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 12 Thursday
+UID:c2664102-65c7-4893-a070-475bf1ff2949
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Elementary Algorithm Design and Data Abstraction (Advanced Lev
+ el) Edward Lee
+DTEND;TZID=Etc/UTC:20240404T165000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240404T153000
+LOCATION:E2 1732
+SEQUENCE:0
+SUMMARY:CS 146 (LEC)
+UID:5c3ce47d-365a-43b0-9439-0b2b7f827d62
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Environmental Geology Tonya DelSontro
+DTEND;TZID=Etc/UTC:20240404T235000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240404T223000
+LOCATION:STC 0010
+SEQUENCE:0
+SUMMARY:SCI 250 (LEC)
+UID:176d9805-987c-4517-b186-971d76977d12
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240405T040100
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240405T040100
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 10
+UID:cb88d3ca-1ee9-4709-aac0-f7790e37b816
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240405T192000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240405T183000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:846de179-0d77-46e3-8762-70c9069fc5dd
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240405T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240405T193000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:666f7c0e-81ee-4fca-a1be-b40d0c2d7758
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:How might the widespread adoption of generative AI technologie
+ s in the workplace impact job displacement across various industries\, an
+ d what strategies could be implemented to mitigate potential negative eff
+ ects on the workforce? Despite how beneficial AI is\, how can we ensure t
+ hat its development and deployment are conducted ethically to safeguard a
+ gainst biases\, discrimination\, and unintended consequences\, while prom
+ oting transparency and accountability in AI systems?
+DTEND;TZID=Etc/UTC:20240406T035900
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240406T035900
+LOCATION:
+SEQUENCE:0
+SUMMARY:Week 12 Thursday
+UID:b0acdd85-33da-463f-893c-fd0a8772ba81
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=Etc/UTC:20240406T035959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240406T035959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Quiz 10
+UID:3d49f3d4-3af0-48ef-9983-fd4625946e2f
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Laurier (https://www.wlu.ca/) may have a different schedule - 
+ visit their website for applicable end dates.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240409
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240408
+SEQUENCE:0
+SUMMARY:Classes end
+UID:5dd1b65e-2afe-4911-ba18-d94acb47bf18
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:The loss of a Friday class on March 29 will be made up by foll
+ owing a Friday schedule on April 8.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240409
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240408
+SEQUENCE:0
+SUMMARY:Make-up day for Good Friday
+UID:46b59fa3-d6db-4da2-a700-6c2079694abb
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Calculus 2 for Honours Mathematics Ladan Khoshnevisan
+DTEND;TZID=Etc/UTC:20240408T192000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240408T183000
+LOCATION:QNC 1502
+SEQUENCE:0
+SUMMARY:MATH 138 (LEC)
+UID:3831e469-cdd7-4c6d-8b0c-41b6fc881f72
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics David Del Rey Fernand
+ ez
+DTEND;TZID=Etc/UTC:20240408T202000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240408T193000
+LOCATION:MC 4059
+SEQUENCE:0
+SUMMARY:MATH 136 (LEC)
+UID:01384500-d470-4ff4-91d0-e30eeda35e0c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Linear Algebra 1 for Honours Mathematics
+DTEND;TZID=Etc/UTC:20240408T212000
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240408T203000
+LOCATION:AL 116
+SEQUENCE:0
+SUMMARY:MATH 136 (TUT)
+UID:e4975813-a839-45ac-8352-65f19d162024
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:
+DTEND;TZID=America/Toronto;VALUE=DATE:20240411
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240409
+SEQUENCE:0
+SUMMARY:Pre-examination study days
+UID:b2725e99-d1d1-48c4-acfe-97768a557d35
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Last day to drop (https://uwaterloo.ca/quest/help/students/how
+ -do-i/drop-classes) a class without a petition and receive a WF (Withdrew
+ /Failure\, no credit granted\, value 32) grade.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240411
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240410
+SEQUENCE:0
+SUMMARY:Drop with WF ends
+UID:5d740f8a-d966-4d76-ad2f-2ab7e332448c
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:First day of the Final Examination Period.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240412
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240411
+SEQUENCE:0
+SUMMARY:Final examinations begin
+UID:b0c5dcb0-311e-4a83-9216-1a048cd6e883
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Winter 2024 term dates.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240414
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240412
+SEQUENCE:0
+SUMMARY:In-person exam days for online courses
+UID:e80096a5-2ec1-47d2-9295-5da70e281520
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Dates reserved to hold final examinations in the event the Uni
+ versity is closed during the winter 2024 Final Examination Period: Examin
+ ations will be rescheduled on the next available day\, including Sunday\,
+  on which examinations have not been scheduled.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240415
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240414
+SEQUENCE:0
+SUMMARY:Final examination emergency days
+UID:f77145e8-b7ab-46d8-8ddf-bc0a5e4ce096
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Winter 2024 term dates.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240418
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240417
+SEQUENCE:0
+SUMMARY:In-person exam days for online courses
+UID:adc1f176-d4dc-41d3-849c-15a63b51cf38
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Winter 2024 term dates.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240421
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240420
+SEQUENCE:0
+SUMMARY:In-person exam days for online courses
+UID:6d0071f6-0846-44d8-b0f0-a565c9255ba3
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Dates reserved to hold final examinations in the event the Uni
+ versity is closed during the winter 2024 Final Examination Period: Examin
+ ations will be rescheduled on the next available day\, including Sunday\,
+  on which examinations have not been scheduled.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240422
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240421
+SEQUENCE:0
+SUMMARY:Final examination emergency days
+UID:381c0650-72a7-498c-95d9-9bbbcf627be4
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:See how to opt out of optional or voluntary fees (https://uwat
+ erloo.ca/quest/help/students/how-do-i/opt-out-optional-or-voluntary-fees)
+  in Quest.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240425
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240424
+SEQUENCE:0
+SUMMARY:Opt out of optional/voluntary fees deadline
+UID:3cc33a93-6567-4d61-ae90-ca2e3458838d
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Pay in full or become "Fees Arranged" (https://uwaterloo.ca/fi
+ nance/student-financial-services/how-become-fees-arranged)\; a Fees Arran
+ ged Extension fee applies after this date.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240425
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240424
+SEQUENCE:0
+SUMMARY:Tuition and fees due
+UID:a05e021a-bb99-4a67-bea2-a77ced0c2ddf
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:See Student Financial Services (https://uwaterloo.ca/finance/s
+ tudent-financial-services/due-dates) website for Fees Arranged Extension 
+ fee amounts by date.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240426
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240425
+SEQUENCE:0
+SUMMARY:Fees Arranged Extension fees begin
+UID:998476c0-9e26-43e1-916a-40385c9fe162
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Last day of the Final Examination Period.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240426
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240425
+SEQUENCE:0
+SUMMARY:Final examinations end
+UID:a83bab9a-f0a3-4c43-875f-62bee5ac8d5a
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Actual dates may vary depending on employer or student require
+ ments.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240427
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240426
+SEQUENCE:0
+SUMMARY:Co-operative work term ends
+UID:d5de7729-cc07-44a1-8c5a-b10b754540c4
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Dates reserved to hold final examinations in the event the Uni
+ versity is closed during the winter 2024 Final Examination Period: Examin
+ ations will be rescheduled on the next available day\, including Sunday\,
+  on which examinations have not been scheduled.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240427
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240426
+SEQUENCE:0
+SUMMARY:Final examination emergency days
+UID:71733a40-fe48-4c42-8ef0-58a3d23963cb
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Registered students can view their unofficial term grades (htt
+ ps://uwaterloo.ca/quest/help/students/how-do-i/term-grades) in Quest.Note
+ : Not all grades will be available on this date.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240428
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240427
+SEQUENCE:0
+SUMMARY:Grades begin to appear in Quest
+UID:591a1182-4823-45a9-a1f0-ca5781182cdd
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:This quiz will introduce you to some scenarios that you could 
+ encounter in your first year of study\, and throughout your post-secondar
+ y education. Give the questions an attempt and test your understanding of
+  what it means to act with integrity in the university environment.
+DTEND;TZID=Etc/UTC:20240501T035959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240501T035959
+LOCATION:
+SEQUENCE:0
+SUMMARY:Academic Integrity Quiz
+UID:6177a882-dc6c-48c3-8178-5cde74c797e5
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:The MATH 137 Course Outline Scavenger Hunt is set up as a quiz
+  is to let you explore how to take a quiz in the LEARN platform. Completi
+ ng this will also help you become familiar with the different components 
+ of a course outline.\nThis quiz is not graded\, and you can retake it as 
+ many times as you would like. You will need to refer to the MATH 137 Cour
+ se Outline (pdf) to complete the quiz. You can also review the Module 2 C
+ ourse Outlines section for clues to where specific course information can
+  be found in a course outline. \nPlease note that information used for th
+ is quiz was taken from one example of a course outline for a first-year m
+ athematics course. Different courses may have their course outlines struc
+ tured differently.
+DTEND;TZID=Etc/UTC:20240501T035959
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=Etc/UTC:20240501T035959
+LOCATION:
+SEQUENCE:0
+SUMMARY:MATH 137 Course Outline Scavenger Hunt
+UID:3334cf9e-c613-43c2-a8f7-bee5082cf77e
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Laurier (https://www.wlu.ca/) may have a different schedule - 
+ visit their website for applicable start dates.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240507
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240506
+SEQUENCE:0
+SUMMARY:Classes begin
+UID:e1dc7d3c-1bd7-45ea-aeaa-7493574e3859
+END:VEVENT
+BEGIN:VEVENT
+CLASS:Portal
+CREATED:20240113T210649Z
+DESCRIPTION:Actual dates may vary depending on employer or student require
+ ments.
+DTEND;TZID=America/Toronto;VALUE=DATE:20240507
+DTSTAMP:20240113T210649Z
+DTSTART;TZID=America/Toronto;VALUE=DATE:20240506
+SEQUENCE:0
+SUMMARY:Co-operative work term begins
+UID:9f83ef40-0894-4abd-9cb4-1d3d3ddecf88
+END:VEVENT
+END:VCALENDAR

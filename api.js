@@ -1,27 +1,33 @@
-import got from 'got';
-import cheerio from 'cheerio';
+import fs from 'fs';
+import NodeCache from 'node-cache';
+import ICAL from 'ical.js';
 
-export const getUser = async (username) => {
-	let response;
-	try {
-		response = await got({
-			method: 'get',
-			url: `https://osu.ppy.sh/users/${username}/`,
-		});	
-	} catch (error) {
-		if (error.response.statusCode === 404){
-			return {
-				error: `User ${username} not found`
-			}
-		}
-		return {
-			error: `Unknown Error`
-		}
+
+const cacheControl = new NodeCache({ stdTTL: 300, checkperiod: 60, deleteOnExpire: false });
+
+
+export const fetchCalendar = async (url) => {
+	if (!url) {
+		return testCalendar();
 	}
-	
-    const body = response.body;
-	let $ = cheerio.load(body);
-	let data = JSON.parse($('.js-react--profile-page.osu-layout').attr('data-initial-data'));
+	let cached = cacheControl.get(url);
+	if (cached) {
+		return cached;
+	}
+	let text = await fetch(url).then(response => response.text());
+	cacheControl.set(url, text);
+	return text;
+}
+export const testCalendar = () => {
+	let text = fs.readFileSync('test.ics', 'utf8');
+	return text;
+}
 
-	return data;
+export const parseCalendar = (text) => {
+	let jcalData = ICAL.parse(text);
+	let comp = new ICAL.Component(jcalData);
+	return comp;
+}
+export const generateIcs = (comp) => {
+	return comp.toString();
 }

@@ -1,40 +1,36 @@
+import path from 'path';
 import express from 'express';
-import NodeCache from 'node-cache';
 import * as api from './api.js';
+import { filterCalendar } from './filters.js';
 
-const cacheControl = new NodeCache({ stdTTL: 86400, checkperiod: 600, deleteOnExpire: false });
 const app = express();
 
-app.get('/:name', async function (req, res) {
-	res.set({
-		'Content-Type': 'image/png',
-		'Cache-Control': 'public, max-age=86400',
-	});
-	let username = req.params.name ?? '';
+app.use('/', express.static(path.join(process.cwd(), '/static')));
 
-	let userData, coverUrl;
-	let cacheKey = username;
+const names = {
+	'lecture': 'Lectures',
+	'tutorial': 'Tutorials',
+	'lab': 'Labs',
+	'exam': 'Exams',
+	'important-date': 'Important Dates',
+	'quiz': 'Quizzes',
+	'tip': 'Tips',
+	'other': 'Other'
+}
 
-	if (req.headers['cache-control'] != 'no-cache' && cacheControl.has(cacheKey)) {
-		({ coverUrl } = cacheControl.get(cacheKey));
-		if (cacheControl.ttl(cacheKey) < 3600) {
-			api.getUser(username).then((data) => {
-				if (!data.error) {
-					cacheControl.set(cacheKey, { coverUrl: data.user.cover_url });
-				}
-			});
-		}
-	} else {
-		userData = await api.getUser(username);
-		if (userData.error) {
-			res.set('Content-Type', 'text/plain');
-			res.send('Error: ' + userData.error);
-			return;
-		}
-		coverUrl = userData.user.cover_url;
-		cacheControl.set(cacheKey, { coverUrl });
+app.get('/filter/:category', async (req, res) => {
+	let category = req.params.category;
+	let url = req.query.url;
+	const text = await api.fetchCalendar(url);
+	const comp = api.parseCalendar(text);
+	const filtered = filterCalendar(comp, category);
+	if (category !== 'all') {
+		filtered.updatePropertyWithValue('x-wr-calname', `${names[category]} - ${filtered.getFirstPropertyValue('x-wr-calname')}`);
 	}
-	res.redirect(302, coverUrl);
+	const ics = api.generateIcs(filtered);
+	res.setHeader('Content-Type', 'text/calendar');
+	//res.setHeader('Content-Type', 'text/plain');
+	res.send(ics);
 });
 
 app.listen(process.env.PORT || 3000);
