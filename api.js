@@ -21,7 +21,7 @@ export const getUser = async (username) => {
 	
     const body = response.body;
 	let $ = cheerio.load(body);
-	let data = JSON.parse($('.js-react--profile-page.osu-layout').attr('data-initial-data'));
+	let data = JSON.parse($('.js-react--profile-page').attr('data-initial-data'));
 
 	return data;
 }
